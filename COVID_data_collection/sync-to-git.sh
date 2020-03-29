@@ -7,4 +7,10 @@
 #  1) Reads a config file to identify a private key to send to git for authentication
 #  2) Pushes updates to git
 # Runs every day at 2AM
-source /home/zhengyuan/Projects/covid19data/gittoken.env
+# Assumes master branch is set
+cd /home/zhengyuan/Projects/covid19data
+source gittoken.env
+BRANCH=master
+git add .
+git commit -m "Syncing Project to Git on branch: $BRANCH"
+git push deployment-origin $BRANCH
