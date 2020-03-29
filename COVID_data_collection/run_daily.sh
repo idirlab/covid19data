@@ -11,3 +11,4 @@ cd src
 sudo python collect_data.py
 sudo python collect_global_data.py
 sudo python add_to_time_series.py
+sudo ./sync-to-git.sh
