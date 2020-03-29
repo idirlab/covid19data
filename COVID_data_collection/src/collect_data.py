@@ -7,9 +7,7 @@ import codecs
 from datetime import datetime
 from selenium import webdriver
 #from selenium.webdriver import Chrome
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+
 import requests
 #import logging
 from selenium.webdriver.firefox.options import Options
@@ -161,8 +159,12 @@ def get_COVID_tracking_project_data(url,output_file):
             if fields[0] in abbr_to_state:
                 if not fields[1].strip()=='':  # some fields come empty from the file and replace the initial 0 value
                     confirmed[abbr_to_state[fields[0]]] = fields[1]   # convert the postal abbreviation of states to full state name
+                else:
+                    confirmed[abbr_to_state[fields[0]]] = "NA"
                 if not fields[4].strip()=='':
                     deaths[abbr_to_state[fields[0]]] = fields[11]
+                else:
+                    deaths[abbr_to_state[fields[0]]] = "NA"
         f.close()
     with codecs.open(output_file,'w',encoding='utf8') as out:
         out.write("COUNTY\tCASES\tDEATHS\tRECOVERED\n")
