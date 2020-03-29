@@ -161,7 +161,7 @@ def get_COVID_tracking_project_data(url,output_file):
                     confirmed[abbr_to_state[fields[0]]] = fields[1]   # convert the postal abbreviation of states to full state name
                 else:
                     confirmed[abbr_to_state[fields[0]]] = "NA"
-                if not fields[4].strip()=='':
+                if not fields[11].strip()=='':
                     deaths[abbr_to_state[fields[0]]] = fields[11]
                 else:
                     deaths[abbr_to_state[fields[0]]] = "NA"
