@@ -1,4 +1,0 @@
-Running add_to_time_series.py on 04/02/2020 12:25:20
-
-State series collected successfully
-County Series collected successfully

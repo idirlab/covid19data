@@ -1,7 +1,0 @@
-Running collect_data.py on 04/02/2020 12:24:50
-
-NY Times' data collected successfully !
-CNN's data collected successfully !
-CDC's data collected successfully !
-Johns Hopkins' data collected successfully !
-'NoneType' object is not subscriptable
