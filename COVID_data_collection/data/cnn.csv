@@ -1,57 +1,58 @@
+2020-01-05 06:00:00
 COUNTY	CASES	DEATHS	RECOVERED
-Alabama	696	3	NA
-Alaska	85	2	NA
-Arizona	773	15	NA
-Arkansas	388	3	NA
-American Samoa	0	0	NA
-California	3,801	78	NA
-Colorado	1,734	31	NA
-Connecticut	1,291	27	NA
-Delaware	165	2	NA
-District of Columbia	304	4	NA
-Florida	3,600	53	NA
-Georgia	2,366	69	NA
-Guam	51	1	NA
-Hawaii	120	0	NA
-Idaho	230	4	NA
-Illinois	3,491	47	NA
-Indiana	981	24	NA
-Iowa	298	3	NA
-Kansas	202	4	NA
-Kentucky	302	7	NA
-Louisiana	3,315	137	NA
-Maine	211	1	NA
-Maryland	992	5	NA
-Massachusetts	4,257	44	NA
-Michigan	3,657	92	NA
-Minnesota	398	4	NA
-Mississippi	663	13	NA
-Missouri	670	9	NA
-Montana	121	1	NA
-Nebraska	89	2	NA
-Nevada	621	10	NA
-New Hampshire	187	2	NA
-New Jersey	8,825	108	NA
-New Mexico	191	1	NA
-New York	52,318	728	NA
-North Carolina	934	4	NA
-North Dakota	68	1	NA
-Northern Mariana Islands	2	0	NA
-Ohio	1,406	25	NA
-Oklahoma	377	15	NA
-Oregon	414	12	NA
-Pennsylvania	2,751	34	NA
-Puerto Rico	100	3	NA
-Rhode Island	230	2	NA
-South Carolina	660	15	NA
-South Dakota	58	1	NA
-Tennessee	1,373	6	NA
-Texas	1,731	23	NA
-US Virgin Islands	19	0	NA
-Utah	480	2	NA
-Vermont	211	12	NA
-Virginia	739	17	NA
-Washington	3,723	175	NA
-West Virginia	96	0	NA
-Wisconsin	842	13	NA
-Wyoming	73	0	NA
+Alabama	1633	33	NA
+Alaska	171	23	NA
+Arizona	2236	31	NA
+Arkansas	743	25	NA
+American Samoa	0		NA
+California	13904	35	NA
+Colorado	4565	79	NA
+Connecticut	5276	148	NA
+Delaware	593	61	NA
+District of Columbia	902	128	NA
+Florida	11545	54	NA
+Georgia	6383	60	NA
+Guam	93		NA
+Hawaii	351	25	NA
+Idaho	1078	60	NA
+Illinois	10360	82	NA
+Indiana	3953	59	NA
+Iowa	787	25	NA
+Kansas	698	24	NA
+Kentucky	917	21	NA
+Louisiana	12496	269	NA
+Maine	456	34	NA
+Maryland	3172	52	NA
+Massachusetts	11736	170	NA
+Michigan	14225	142	NA
+Minnesota	865	15	NA
+Mississippi	1455	49	NA
+Missouri	2345	38	NA
+Montana	281	26	NA
+Nebraska	323	17	NA
+Nevada	1742	57	NA
+New Hampshire	621	46	NA
+New Jersey	34124	384	NA
+New Mexico	588	28	NA
+New York	114174	587	NA
+North Carolina	2549	24	NA
+North Dakota	186	24	NA
+Northern Mariana Islands	8		NA
+Ohio	3739	32	NA
+Oklahoma	1161	29	NA
+Oregon	999	24	NA
+Pennsylvania	10507	82	NA
+Puerto Rico	452	14	NA
+Rhode Island	806	76	NA
+South Carolina	1917	37	NA
+South Dakota	212	24	NA
+Tennessee	3322	49	NA
+Texas	6872	24	NA
+US Virgin Islands	40		NA
+Utah	1435	45	NA
+Vermont	461	74	NA
+Virginia	2407	28	NA
+Washington	7632	100	NA
+West Virginia	282	16	NA
+Wisconsin	2128	37	NA
+Wyoming	187	32	NA
