@@ -10,3 +10,4 @@ COVID_data_collection/geckodriver-v0.26.0-linux64.tar.gz
 COVID_data_collection/stdouterr_add_to_time_series.txt
 COVID_data_collection/stdouterr_collect_data.txt
 COVID_data_collection/stdouterr_collect_global_data.txt
+.DS_STORE
