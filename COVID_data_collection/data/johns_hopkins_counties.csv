@@ -1,27 +1,27 @@
-2020-04-07 23:04:49
+2020-04-08 22:51:58
 COUNTY	CASES	DEATHS	RECOVERED
 Autauga-Alabama	12	1	0
-Baldwin-Alabama	42	1	0
+Baldwin-Alabama	44	1	0
 Barbour-Alabama	3	0	0
-Bibb-Alabama	8	0	0
+Bibb-Alabama	9	0	0
 Blount-Alabama	10	0	0
-Bullock-Alabama	2	0	0
+Bullock-Alabama	3	0	0
 Butler-Alabama	2	0	0
-Calhoun-Alabama	41	0	0
-Chambers-Alabama	101	8	0
-Cherokee-Alabama	6	0	0
+Calhoun-Alabama	49	0	0
+Chambers-Alabama	109	8	0
+Cherokee-Alabama	7	0	0
 Chilton-Alabama	20	0	0
 Choctaw-Alabama	6	0	0
 Clarke-Alabama	10	0	0
-Clay-Alabama	9	0	0
-Cleburne-Alabama	9	0	0
+Clay-Alabama	10	0	0
+Cleburne-Alabama	12	0	0
 Coffee-Alabama	8	0	0
 Colbert-Alabama	7	1	0
-Conecuh-Alabama	2	0	0
+Conecuh-Alabama	4	0	0
 Coosa-Alabama	9	0	0
-Covington-Alabama	5	0	0
+Covington-Alabama	9	0	0
 Crenshaw-Alabama	2	0	0
-Cullman-Alabama	21	1	0
+Cullman-Alabama	22	1	0
 Dale-Alabama	4	0	0
 Dallas-Alabama	7	0	0
 De Kalb-Alabama	0	0	0
@@ -30,58 +30,58 @@ Escambia-Alabama	3	0	0
 Etowah-Alabama	43	4	0
 Fayette-Alabama	1	0	0
 Franklin-Alabama	7	0	0
-Geneva-Alabama	0	0	0
+Geneva-Alabama	1	0	0
 Greene-Alabama	10	0	0
 Hale-Alabama	7	0	0
-Henry-Alabama	4	0	0
+Henry-Alabama	5	0	0
 Houston-Alabama	25	1	0
-Jackson-Alabama	18	1	0
-Jefferson-Alabama	457	12	0
+Jackson-Alabama	19	1	0
+Jefferson-Alabama	479	13	0
 Lamar-Alabama	5	0	0
 Lauderdale-Alabama	18	2	0
 Lawrence-Alabama	8	0	0
-Lee-Alabama	128	5	0
+Lee-Alabama	148	5	0
 Limestone-Alabama	32	0	0
-Lowndes-Alabama	8	0	0
+Lowndes-Alabama	10	0	0
 Macon-Alabama	6	1	0
-Madison-Alabama	150	2	0
+Madison-Alabama	153	2	0
 Marengo-Alabama	14	1	0
-Marion-Alabama	21	3	0
-Marshall-Alabama	39	1	0
-Mobile-Alabama	201	8	0
+Marion-Alabama	23	3	0
+Marshall-Alabama	42	1	0
+Mobile-Alabama	249	8	0
 Monroe-Alabama	5	1	0
-Montgomery-Alabama	74	1	0
-Morgan-Alabama	30	0	0
-Perry-Alabama	1	0	0
-Pickens-Alabama	14	0	0
-Pike-Alabama	14	0	0
-Randolph-Alabama	13	2	0
-Russell-Alabama	12	0	0
+Montgomery-Alabama	77	2	0
+Morgan-Alabama	31	0	0
+Perry-Alabama	0	0	0
+Pickens-Alabama	15	0	0
+Pike-Alabama	16	0	0
+Randolph-Alabama	15	2	0
+Russell-Alabama	14	0	0
 St Clair-Alabama	0	0	0
-Shelby-Alabama	158	5	0
-Sumter-Alabama	15	0	0
-Talladega-Alabama	20	0	0
-Tallapoosa-Alabama	33	1	0
-Tuscaloosa-Alabama	77	0	0
-Walker-Alabama	63	0	0
+Shelby-Alabama	159	5	0
+Sumter-Alabama	16	0	0
+Talladega-Alabama	22	0	0
+Tallapoosa-Alabama	35	1	0
+Tuscaloosa-Alabama	83	0	0
+Walker-Alabama	65	0	0
 Washington-Alabama	7	1	0
 Wilcox-Alabama	13	0	0
 Winston-Alabama	3	0	0
 Aleutians East-Alaska	0	0	0
 Aleutians West-Alaska	0	0	0
-Anchorage-Alaska	98	4	0
+Anchorage-Alaska	103	4	0
 Bethel-Alaska	1	0	0
 Bristol Bay-Alaska	0	0	0
 Denali-Alaska	0	0	0
 Dillingham-Alaska	0	0	0
-Fairbanks North Star-Alaska	65	1	0
+Fairbanks North Star-Alaska	71	1	0
 Haines-Alaska	0	0	0
 Juneau-Alaska	14	0	0
 Kenai Peninsula-Alaska	13	0	0
 Ketchikan Gateway-Alaska	14	0	0
 Kodiak Island-Alaska	0	0	0
 Lake and Peninsula-Alaska	0	0	0
-Matanuska-Susitna-Alaska	4	0	0
+Matanuska-Susitna-Alaska	5	0	0
 Nome-Alaska	0	0	0
 North Slope-Alaska	0	0	0
 Northwest Arctic-Alaska	0	0	0
@@ -94,25 +94,25 @@ Wade Hampton-Alaska	0	0	0
 Wrangell-Petersburg-Alaska	0	0	0
 Yakutat-Alaska	0	0	0
 Yukon-Koyukuk-Alaska	1	0	0
-Apache-Arizona	65	0	0
+Apache-Arizona	78	0	0
 Cochise-Arizona	9	0	0
-Coconino-Arizona	281	10	0
+Coconino-Arizona	288	14	0
 Gila-Arizona	3	0	0
 Graham-Arizona	2	0	0
 Greenlee-Arizona	1	0	0
 La Paz-Arizona	3	0	0
-Maricopa-Arizona	1495	35	0
+Maricopa-Arizona	1559	37	0
 Mohave-Arizona	23	0	0
-Navajo-Arizona	378	1	0
-Pima-Arizona	415	13	0
-Pinal-Arizona	120	0	0
-Santa Cruz-Arizona	5	0	0
-Yavapai-Arizona	57	0	0
-Yuma-Arizona	13	0	0
+Navajo-Arizona	404	1	0
+Pima-Arizona	464	16	0
+Pinal-Arizona	124	0	0
+Santa Cruz-Arizona	6	0	0
+Yavapai-Arizona	58	0	0
+Yuma-Arizona	14	0	0
 Arkansas-Arkansas	1	0	0
 Ashley-Arkansas	5	0	0
 Baxter-Arkansas	1	0	0
-Benton-Arkansas	42	0	0
+Benton-Arkansas	45	0	0
 Boone-Arkansas	1	0	0
 Bradley-Arkansas	5	0	0
 Calhoun-Arkansas	0	0	0
@@ -120,41 +120,41 @@ Carroll-Arkansas	1	0	0
 Chicot-Arkansas	2	0	0
 Clark-Arkansas	27	0	0
 Clay-Arkansas	1	0	0
-Cleburne-Arkansas	66	2	0
+Cleburne-Arkansas	67	2	0
 Cleveland-Arkansas	7	0	0
 Columbia-Arkansas	1	0	0
 Conway-Arkansas	1	1	0
-Craighead-Arkansas	22	0	0
+Craighead-Arkansas	23	0	0
 Crawford-Arkansas	1	0	0
-Crittenden-Arkansas	58	0	0
+Crittenden-Arkansas	61	0	0
 Cross-Arkansas	5	0	0
 Dallas-Arkansas	1	0	0
 Desha-Arkansas	5	0	0
 Drew-Arkansas	5	0	0
-Faulkner-Arkansas	52	1	0
+Faulkner-Arkansas	55	1	0
 Franklin-Arkansas	1	0	0
 Fulton-Arkansas	0	0	0
-Garland-Arkansas	46	0	0
-Grant-Arkansas	3	0	0
-Greene-Arkansas	1	0	0
+Garland-Arkansas	51	0	0
+Grant-Arkansas	5	0	0
+Greene-Arkansas	6	0	0
 Hempstead-Arkansas	1	0	0
 Hot Spring-Arkansas	7	0	0
 Howard-Arkansas	5	0	0
 Independence-Arkansas	5	0	0
 Izard-Arkansas	1	0	0
 Jackson-Arkansas	0	0	0
-Jefferson-Arkansas	69	0	0
+Jefferson-Arkansas	78	0	0
 Johnson-Arkansas	11	0	0
 Lafayette-Arkansas	1	0	0
 Lawrence-Arkansas	1	0	0
 Lee-Arkansas	1	0	0
-Lincoln-Arkansas	10	0	0
+Lincoln-Arkansas	11	0	0
 Little River-Arkansas	0	0	0
 Logan-Arkansas	1	0	0
 Lonoke-Arkansas	23	0	0
 Madison-Arkansas	0	0	0
 Marion-Arkansas	0	0	0
-Miller-Arkansas	13	0	0
+Miller-Arkansas	16	0	0
 Mississippi-Arkansas	1	0	0
 Monroe-Arkansas	1	0	0
 Montgomery-Arkansas	0	0	0
@@ -165,134 +165,134 @@ Perry-Arkansas	1	0	0
 Phillips-Arkansas	1	0	0
 Pike-Arkansas	1	0	0
 Poinsett-Arkansas	6	0	0
-Polk-Arkansas	5	0	0
-Pope-Arkansas	17	0	0
+Polk-Arkansas	6	0	0
+Pope-Arkansas	20	0	0
 Prairie-Arkansas	1	0	0
-Pulaski-Arkansas	175	2	0
-Randolph-Arkansas	1	0	0
+Pulaski-Arkansas	179	2	0
+Randolph-Arkansas	6	0	0
 St Francis-Arkansas	0	0	0
 Saline-Arkansas	33	0	0
 Scott-Arkansas	1	0	0
 Searcy-Arkansas	6	0	0
-Sebastian-Arkansas	8	0	0
+Sebastian-Arkansas	9	0	0
 Sevier-Arkansas	6	0	0
 Sharp-Arkansas	1	0	0
 Stone-Arkansas	5	0	0
 Union-Arkansas	13	0	0
-Van Buren-Arkansas	21	0	0
-Washington-Arkansas	29	0	0
+Van Buren-Arkansas	22	0	0
+Washington-Arkansas	30	0	0
 White-Arkansas	27	0	0
 Woodruff-Arkansas	1	0	0
 Yell-Arkansas	1	0	0
-Alameda-California	634	15	0
+Alameda-California	674	16	0
 Alpine-California	1	0	0
 Amador-California	3	0	0
-Butte-California	12	0	0
+Butte-California	13	0	0
 Calaveras-California	5	0	0
-Colusa-California	2	0	0
-Contra Costa-California	442	7	0
+Colusa-California	3	0	0
+Contra Costa-California	462	7	0
 Del Norte-California	2	0	0
-El Dorado-California	22	0	0
-Fresno-California	124	2	0
+El Dorado-California	28	0	0
+Fresno-California	146	3	0
 Glenn-California	2	0	0
-Humboldt-California	49	0	0
-Imperial-California	68	3	0
+Humboldt-California	50	0	0
+Imperial-California	73	3	0
 Inyo-California	11	0	0
-Kern-California	252	2	0
+Kern-California	271	2	0
 Kings-California	5	0	0
-Lake-California	1	0	0
+Lake-California	2	0	0
 Lassen-California	0	0	0
-Los Angeles-California	6936	169	0
+Los Angeles-California	7559	198	0
 Madera-California	28	2	0
-Marin-California	143	9	0
+Marin-California	148	10	0
 Mariposa-California	0	0	0
 Mendocino-California	4	0	0
-Merced-California	29	1	0
+Merced-California	34	3	0
 Modoc-California	0	0	0
 Mono-California	19	1	0
-Monterey-California	62	2	0
-Napa-California	22	2	0
-Nevada-California	32	1	0
-Orange-California	931	15	0
-Placer-California	106	3	0
+Monterey-California	64	2	0
+Napa-California	25	2	0
+Nevada-California	34	1	0
+Orange-California	1016	17	0
+Placer-California	117	4	0
 Plumas-California	3	0	0
-Riverside-California	1016	28	0
-Sacramento-California	525	21	0
-San Benito-California	23	2	0
-San Bernardino-California	530	16	0
-San Diego-California	1404	19	0
-San Francisco-California	622	9	0
-San Joaquin-California	217	13	0
-San Luis Obispo-California	95	1	0
-San Mateo-California	589	21	0
-Santa Barbara-California	192	2	0
-Santa Clara-California	1285	43	0
+Riverside-California	1179	32	0
+Sacramento-California	580	22	0
+San Benito-California	33	2	0
+San Bernardino-California	547	17	0
+San Diego-California	1454	31	0
+San Francisco-California	676	10	0
+San Joaquin-California	223	13	0
+San Luis Obispo-California	99	1	0
+San Mateo-California	617	21	0
+Santa Barbara-California	218	2	0
+Santa Clara-California	1380	46	0
 Santa Cruz-California	76	1	0
-Shasta-California	21	3	0
+Shasta-California	23	3	0
 Sierra-California	0	0	0
 Siskiyou-California	4	0	0
-Solano-California	88	1	0
-Sonoma-California	111	2	0
-Stanislaus-California	81	0	0
-Sutter-California	16	2	0
+Solano-California	99	2	0
+Sonoma-California	120	1	0
+Stanislaus-California	90	0	0
+Sutter-California	19	2	0
 Tehama-California	1	0	0
 Trinity-California	0	0	0
 Tulare-California	157	7	0
-Tuolumne-California	2	0	0
-Ventura-California	243	6	0
-Yolo-California	50	1	0
-Yuba-California	11	0	0
-Adams-Colorado	388	12	0
-Alamosa-Colorado	4	0	0
-Arapahoe-Colorado	718	15	0
+Tuolumne-California	1	0	0
+Ventura-California	263	7	0
+Yolo-California	56	2	0
+Yuba-California	13	0	0
+Adams-Colorado	417	14	0
+Alamosa-Colorado	5	0	0
+Arapahoe-Colorado	764	19	0
 Archuleta-Colorado	6	0	0
 Baca-Colorado	9	0	0
 Bent-Colorado	0	0	0
-Boulder-Colorado	206	3	0
-Chaffee-Colorado	22	2	0
+Boulder-Colorado	207	3	0
+Chaffee-Colorado	23	2	0
 Cheyenne-Colorado	0	0	0
 Clear Creek-Colorado	7	0	0
 Conejos-Colorado	0	0	0
 Costilla-Colorado	3	0	0
 Crowley-Colorado	1	1	0
 Custer-Colorado	2	0	0
-Delta-Colorado	5	0	0
-Denver-Colorado	884	15	0
+Delta-Colorado	5	1	0
+Denver-Colorado	927	33	0
 Dolores-Colorado	0	0	0
-Douglas-Colorado	232	3	0
-Eagle-Colorado	372	5	0
-Elbert-Colorado	9	1	0
-El Paso-Colorado	457	28	0
+Douglas-Colorado	244	8	0
+Eagle-Colorado	374	5	0
+Elbert-Colorado	10	1	0
+El Paso-Colorado	472	30	0
 Fremont-Colorado	4	0	0
-Garfield-Colorado	48	1	0
+Garfield-Colorado	49	1	0
 Gilpin-Colorado	0	0	0
 Grand-Colorado	4	0	0
-Gunnison-Colorado	95	1	0
+Gunnison-Colorado	98	1	0
 Hinsdale-Colorado	1	0	0
 Huerfano-Colorado	1	0	0
 Jackson-Colorado	0	0	0
-Jefferson-Colorado	579	18	0
+Jefferson-Colorado	610	23	0
 Kiowa-Colorado	0	0	0
 Kit Carson-Colorado	5	0	0
 Lake-Colorado	3	0	0
 La Plata-Colorado	34	0	0
-Larimer-Colorado	161	8	0
+Larimer-Colorado	167	8	0
 Las Animas-Colorado	1	0	0
 Lincoln-Colorado	1	0	0
 Logan-Colorado	13	0	0
-Mesa-Colorado	27	0	0
+Mesa-Colorado	32	0	0
 Mineral-Colorado	2	0	0
 Moffat-Colorado	3	0	0
 Montezuma-Colorado	8	1	0
-Montrose-Colorado	35	2	0
+Montrose-Colorado	35	3	0
 Morgan-Colorado	23	0	0
 Otero-Colorado	4	0	0
 Ouray-Colorado	3	0	0
 Park-Colorado	5	0	0
-Phillips-Colorado	3	0	0
+Phillips-Colorado	4	0	0
 Pitkin-Colorado	39	2	0
 Prowers-Colorado	0	0	0
-Pueblo-Colorado	44	2	0
+Pueblo-Colorado	45	2	0
 Rio Blanco-Colorado	1	0	0
 Rio Grande-Colorado	5	0	0
 Routt-Colorado	32	0	0
@@ -300,10 +300,10 @@ Saguache-Colorado	3	0	0
 San Juan-Colorado	0	0	0
 San Miguel-Colorado	10	0	0
 Sedgwick-Colorado	0	0	0
-Summit-Colorado	53	0	0
+Summit-Colorado	56	0	0
 Teller-Colorado	12	1	0
 Washington-Colorado	1	0	0
-Weld-Colorado	537	26	0
+Weld-Colorado	573	30	0
 Yuma-Colorado	2	0	0
 Fairfield-Connecticut	4136	132	0
 Hartford-Connecticut	1045	48	0
@@ -313,260 +313,260 @@ New Haven-Connecticut	1664	60	0
 New London-Connecticut	85	4	0
 Tolland-Connecticut	111	13	0
 Windham-Connecticut	43	1	0
-Kent-Delaware	147	4	0
-New Castle-Delaware	571	9	0
-Sussex-Delaware	210	3	0
+Kent-Delaware	201	4	0
+New Castle-Delaware	636	9	0
+Sussex-Delaware	279	3	0
 Washington-District of Columbia	0	0	0
-Alachua-Florida	139	0	0
-Baker-Florida	15	0	0
-Bay-Florida	25	1	0
-Bradford-Florida	11	0	0
-Brevard-Florida	98	0	0
-Broward-Florida	2230	47	0
-Calhoun-Florida	3	0	0
-Charlotte-Florida	67	1	0
-Citrus-Florida	51	2	0
-Clay-Florida	88	6	0
-Collier-Florida	271	3	0
-Columbia-Florida	16	0	0
+Alachua-Florida	144	0	0
+Baker-Florida	15	1	0
+Bay-Florida	28	1	0
+Bradford-Florida	15	0	0
+Brevard-Florida	102	2	0
+Broward-Florida	2358	58	0
+Calhoun-Florida	4	0	0
+Charlotte-Florida	76	1	0
+Citrus-Florida	54	2	0
+Clay-Florida	97	7	0
+Collier-Florida	277	3	0
+Columbia-Florida	17	0	0
 Dade-Florida	0	0	0
 De Soto-Florida	0	0	0
-Dixie-Florida	1	0	0
-Duval-Florida	521	9	0
-Escambia-Florida	168	1	0
+Dixie-Florida	2	0	0
+Duval-Florida	549	10	0
+Escambia-Florida	180	2	0
 Flagler-Florida	35	1	0
 Franklin-Florida	2	0	0
-Gadsden-Florida	6	0	0
+Gadsden-Florida	8	0	0
 Gilchrist-Florida	1	0	0
 Glades-Florida	4	1	0
 Gulf-Florida	1	0	0
 Hamilton-Florida	1	0	0
 Hardee-Florida	2	0	0
-Hendry-Florida	9	0	0
-Hernando-Florida	51	0	0
-Highlands-Florida	37	2	0
-Hillsborough-Florida	608	5	0
-Holmes-Florida	2	0	0
-Indian River-Florida	62	0	0
+Hendry-Florida	10	0	0
+Hernando-Florida	56	1	0
+Highlands-Florida	41	3	0
+Hillsborough-Florida	626	7	0
+Holmes-Florida	3	0	0
+Indian River-Florida	63	0	0
 Jackson-Florida	4	0	0
-Jefferson-Florida	4	0	0
+Jefferson-Florida	8	0	0
 Lafayette-Florida	0	0	0
-Lake-Florida	116	2	0
-Lee-Florida	434	14	0
-Leon-Florida	68	0	0
+Lake-Florida	136	2	0
+Lee-Florida	462	14	0
+Leon-Florida	71	0	0
 Levy-Florida	5	0	0
 Liberty-Florida	0	0	0
-Madison-Florida	11	0	0
-Manatee-Florida	162	5	0
-Marion-Florida	63	2	0
-Martin-Florida	98	0	0
-Monroe-Florida	49	2	0
-Nassau-Florida	26	0	0
-Okaloosa-Florida	69	1	0
+Madison-Florida	12	0	0
+Manatee-Florida	171	7	0
+Marion-Florida	65	2	0
+Martin-Florida	101	0	0
+Monroe-Florida	51	3	0
+Nassau-Florida	29	0	0
+Okaloosa-Florida	78	1	0
 Okeechobee-Florida	4	0	0
-Orange-Florida	763	9	0
-Osceola-Florida	254	4	0
-Palm Beach-Florida	1136	51	0
-Pasco-Florida	120	2	0
-Pinellas-Florida	380	8	0
-Polk-Florida	197	5	0
-Putnam-Florida	19	1	0
+Orange-Florida	803	10	0
+Osceola-Florida	272	4	0
+Palm Beach-Florida	1206	69	0
+Pasco-Florida	125	2	0
+Pinellas-Florida	394	9	0
+Polk-Florida	206	5	0
+Putnam-Florida	21	1	0
 St Johns-Florida	0	0	0
 St Lucie-Florida	0	0	0
-Santa Rosa-Florida	65	2	0
-Sarasota-Florida	172	7	0
-Seminole-Florida	202	1	0
-Sumter-Florida	84	5	0
-Suwannee-Florida	32	0	0
+Santa Rosa-Florida	69	2	0
+Sarasota-Florida	180	7	0
+Seminole-Florida	216	1	0
+Sumter-Florida	90	7	0
+Suwannee-Florida	46	0	0
 Taylor-Florida	1	0	0
 Union-Florida	2	0	0
-Volusia-Florida	162	3	0
-Wakulla-Florida	6	0	0
+Volusia-Florida	163	3	0
+Wakulla-Florida	7	0	0
 Walton-Florida	26	0	0
 Washington-Florida	2	0	0
 Appling-Georgia	6	0	0
 Atkinson-Georgia	4	0	0
-Bacon-Georgia	10	0	0
-Baker-Georgia	9	1	0
-Baldwin-Georgia	26	1	0
-Banks-Georgia	3	0	0
-Barrow-Georgia	40	3	0
-Bartow-Georgia	187	11	0
+Bacon-Georgia	13	0	0
+Baker-Georgia	9	2	0
+Baldwin-Georgia	27	1	0
+Banks-Georgia	4	0	0
+Barrow-Georgia	42	3	0
+Bartow-Georgia	192	12	0
 Ben Hill-Georgia	6	0	0
 Berrien-Georgia	4	0	0
-Bibb-Georgia	42	1	0
+Bibb-Georgia	50	1	0
 Bleckley-Georgia	1	0	0
-Brantley-Georgia	3	1	0
-Brooks-Georgia	6	0	0
+Brantley-Georgia	5	1	0
+Brooks-Georgia	16	1	0
 Bryan-Georgia	26	2	0
-Bulloch-Georgia	10	0	0
-Burke-Georgia	14	0	0
-Butts-Georgia	17	0	0
-Calhoun-Georgia	28	1	0
-Camden-Georgia	16	0	0
+Bulloch-Georgia	12	0	0
+Burke-Georgia	17	0	0
+Butts-Georgia	20	0	0
+Calhoun-Georgia	30	1	0
+Camden-Georgia	17	0	0
 Candler-Georgia	4	0	0
-Carroll-Georgia	177	4	0
+Carroll-Georgia	183	4	0
 Catoosa-Georgia	7	0	0
 Charlton-Georgia	3	0	0
-Chatham-Georgia	117	4	0
+Chatham-Georgia	125	4	0
 Chattahoochee-Georgia	2	0	0
 Chattooga-Georgia	4	1	0
-Cherokee-Georgia	144	5	0
-Clarke-Georgia	77	9	0
-Clay-Georgia	10	1	0
-Clayton-Georgia	266	10	0
+Cherokee-Georgia	151	6	0
+Clarke-Georgia	81	9	0
+Clay-Georgia	13	1	0
+Clayton-Georgia	293	11	0
 Clinch-Georgia	3	0	0
-Cobb-Georgia	550	29	0
-Coffee-Georgia	38	2	0
-Colquitt-Georgia	69	5	0
-Columbia-Georgia	46	0	0
-Cook-Georgia	3	0	0
+Cobb-Georgia	588	29	0
+Coffee-Georgia	44	2	0
+Colquitt-Georgia	68	5	0
+Columbia-Georgia	48	1	0
+Cook-Georgia	4	0	0
 Coweta-Georgia	79	2	0
-Crawford-Georgia	2	0	0
-Crisp-Georgia	46	0	0
-Dade-Georgia	1	1	0
-Dawson-Georgia	20	1	0
-Decatur-Georgia	17	0	0
+Crawford-Georgia	3	0	0
+Crisp-Georgia	48	0	0
+Dade-Georgia	2	1	0
+Dawson-Georgia	22	1	0
+Decatur-Georgia	30	0	0
 De Kalb-Georgia	0	0	0
-Dodge-Georgia	8	0	0
-Dooly-Georgia	28	1	0
-Dougherty-Georgia	939	52	0
-Douglas-Georgia	111	5	0
-Early-Georgia	92	5	0
+Dodge-Georgia	9	0	0
+Dooly-Georgia	27	1	0
+Dougherty-Georgia	986	61	0
+Douglas-Georgia	122	5	0
+Early-Georgia	98	5	0
 Echols-Georgia	1	0	0
-Effingham-Georgia	17	1	0
-Elbert-Georgia	2	0	0
-Emanuel-Georgia	3	0	0
+Effingham-Georgia	18	1	0
+Elbert-Georgia	3	0	0
+Emanuel-Georgia	5	0	0
 Evans-Georgia	0	0	0
-Fannin-Georgia	10	0	0
-Fayette-Georgia	79	4	0
-Floyd-Georgia	89	3	0
-Forsyth-Georgia	94	1	0
+Fannin-Georgia	9	0	0
+Fayette-Georgia	85	4	0
+Floyd-Georgia	93	3	0
+Forsyth-Georgia	99	2	0
 Franklin-Georgia	3	0	0
-Fulton-Georgia	1124	36	0
-Gilmer-Georgia	3	0	0
+Fulton-Georgia	1240	41	0
+Gilmer-Georgia	4	0	0
 Glascock-Georgia	0	0	0
-Glynn-Georgia	29	0	0
-Gordon-Georgia	25	3	0
-Grady-Georgia	5	0	0
-Greene-Georgia	21	1	0
-Gwinnett-Georgia	525	10	0
-Habersham-Georgia	6	0	0
-Hall-Georgia	196	0	0
+Glynn-Georgia	30	0	0
+Gordon-Georgia	26	3	0
+Grady-Georgia	6	0	0
+Greene-Georgia	22	1	0
+Gwinnett-Georgia	565	15	0
+Habersham-Georgia	8	0	0
+Hall-Georgia	228	0	0
 Hancock-Georgia	1	0	0
-Haralson-Georgia	15	0	0
-Harris-Georgia	12	0	0
+Haralson-Georgia	17	0	0
+Harris-Georgia	15	0	0
 Hart-Georgia	3	0	0
 Heard-Georgia	3	1	0
-Henry-Georgia	194	3	0
-Houston-Georgia	79	6	0
+Henry-Georgia	215	3	0
+Houston-Georgia	92	7	0
 Irwin-Georgia	9	0	0
-Jackson-Georgia	21	0	0
-Jasper-Georgia	6	0	0
+Jackson-Georgia	23	0	0
+Jasper-Georgia	5	0	0
 Jeff Davis-Georgia	1	0	0
 Jefferson-Georgia	4	0	0
-Jenkins-Georgia	7	0	0
-Johnson-Georgia	6	0	0
+Jenkins-Georgia	7	1	0
+Johnson-Georgia	13	0	0
 Jones-Georgia	7	0	0
-Lamar-Georgia	15	0	0
+Lamar-Georgia	14	0	0
 Lanier-Georgia	5	0	0
-Laurens-Georgia	22	0	0
-Lee-Georgia	195	15	0
-Liberty-Georgia	12	0	0
-Lincoln-Georgia	5	0	0
+Laurens-Georgia	25	0	0
+Lee-Georgia	208	15	0
+Liberty-Georgia	14	0	0
+Lincoln-Georgia	6	0	0
 Long-Georgia	1	0	0
-Lowndes-Georgia	44	1	0
+Lowndes-Georgia	49	1	0
 Lumpkin-Georgia	9	0	0
-McDuffie-Georgia	13	2	0
+McDuffie-Georgia	16	1	0
 McIntosh-Georgia	3	0	0
-Macon-Georgia	8	0	0
+Macon-Georgia	11	0	0
 Madison-Georgia	9	1	0
-Marion-Georgia	3	0	0
-Meriwether-Georgia	17	0	0
-Miller-Georgia	15	0	0
-Mitchell-Georgia	90	10	0
-Monroe-Georgia	13	1	0
+Marion-Georgia	5	0	0
+Meriwether-Georgia	18	0	0
+Miller-Georgia	12	0	0
+Mitchell-Georgia	108	11	0
+Monroe-Georgia	12	1	0
 Montgomery-Georgia	0	0	0
-Morgan-Georgia	8	0	0
+Morgan-Georgia	12	0	0
 Murray-Georgia	11	0	0
-Muscogee-Georgia	53	1	0
-Newton-Georgia	65	2	0
-Oconee-Georgia	32	0	0
+Muscogee-Georgia	57	1	0
+Newton-Georgia	67	3	0
+Oconee-Georgia	33	1	0
 Oglethorpe-Georgia	2	1	0
-Paulding-Georgia	60	1	0
-Peach-Georgia	16	2	0
+Paulding-Georgia	66	1	0
+Peach-Georgia	19	2	0
 Pickens-Georgia	10	2	0
-Pierce-Georgia	28	1	0
+Pierce-Georgia	36	1	0
 Pike-Georgia	10	0	0
-Polk-Georgia	20	0	0
+Polk-Georgia	22	0	0
 Pulaski-Georgia	8	0	0
 Putnam-Georgia	5	0	0
-Quitman-Georgia	3	0	0
+Quitman-Georgia	4	0	0
 Rabun-Georgia	5	0	0
-Randolph-Georgia	81	4	0
-Richmond-Georgia	74	3	0
-Rockdale-Georgia	85	2	0
+Randolph-Georgia	82	3	0
+Richmond-Georgia	76	3	0
+Rockdale-Georgia	86	2	0
 Schley-Georgia	10	1	0
-Screven-Georgia	3	0	0
-Seminole-Georgia	12	0	0
-Spalding-Georgia	50	4	0
-Stephens-Georgia	11	0	0
-Stewart-Georgia	3	0	0
-Sumter-Georgia	147	6	0
-Talbot-Georgia	6	0	0
+Screven-Georgia	4	0	0
+Seminole-Georgia	13	0	0
+Spalding-Georgia	56	4	0
+Stephens-Georgia	15	0	0
+Stewart-Georgia	4	0	0
+Sumter-Georgia	168	5	0
+Talbot-Georgia	8	1	0
 Taliaferro-Georgia	0	0	0
 Tattnall-Georgia	3	0	0
-Taylor-Georgia	5	1	0
+Taylor-Georgia	5	2	0
 Telfair-Georgia	4	0	0
-Terrell-Georgia	87	9	0
-Thomas-Georgia	37	0	0
-Tift-Georgia	43	1	0
+Terrell-Georgia	93	9	0
+Thomas-Georgia	43	2	0
+Tift-Georgia	47	1	0
 Toombs-Georgia	8	1	0
 Towns-Georgia	2	0	0
 Treutlen-Georgia	1	0	0
-Troup-Georgia	46	3	0
-Turner-Georgia	16	0	0
+Troup-Georgia	48	3	0
+Turner-Georgia	20	0	0
 Twiggs-Georgia	2	0	0
-Union-Georgia	3	0	0
-Upson-Georgia	28	0	0
-Walker-Georgia	4	0	0
-Walton-Georgia	24	2	0
-Ware-Georgia	37	3	0
+Union-Georgia	4	0	0
+Upson-Georgia	29	0	0
+Walker-Georgia	3	0	0
+Walton-Georgia	25	2	0
+Ware-Georgia	42	3	0
 Warren-Georgia	6	0	0
-Washington-Georgia	11	0	0
-Wayne-Georgia	3	0	0
-Webster-Georgia	4	0	0
+Washington-Georgia	17	0	0
+Wayne-Georgia	4	0	0
+Webster-Georgia	3	0	0
 Wheeler-Georgia	1	0	0
-White-Georgia	9	0	0
-Whitfield-Georgia	21	1	0
+White-Georgia	10	0	0
+Whitfield-Georgia	21	3	0
 Wilcox-Georgia	2	0	0
 Wilkes-Georgia	5	0	0
-Wilkinson-Georgia	3	0	0
-Worth-Georgia	55	3	0
+Wilkinson-Georgia	4	0	0
+Worth-Georgia	64	3	0
 Hawaii-Hawaii	23	0	0
 Honolulu-Hawaii	312	4	0
 Kauai-Hawaii	18	0	0
 Maui-Hawaii	48	1	0
-Ada-Idaho	419	3	0
+Ada-Idaho	438	3	0
 Adams-Idaho	1	0	0
 Bannock-Idaho	5	0	0
 Bear Lake-Idaho	0	0	0
 Benewah-Idaho	0	0	0
 Bingham-Idaho	2	0	0
-Blaine-Idaho	423	2	0
+Blaine-Idaho	428	4	0
 Boise-Idaho	0	0	0
 Bonner-Idaho	3	0	0
-Bonneville-Idaho	6	0	0
+Bonneville-Idaho	7	0	0
 Boundary-Idaho	0	0	0
 Butte-Idaho	0	0	0
 Camas-Idaho	1	0	0
-Canyon-Idaho	104	3	0
+Canyon-Idaho	114	3	0
 Caribou-Idaho	1	0	0
 Cassia-Idaho	5	1	0
 Clark-Idaho	0	0	0
 Clearwater-Idaho	0	0	0
 Custer-Idaho	2	0	0
-Elmore-Idaho	12	0	0
+Elmore-Idaho	14	0	0
 Franklin-Idaho	0	0	0
 Fremont-Idaho	2	0	0
 Gem-Idaho	8	0	0
@@ -574,113 +574,113 @@ Gooding-Idaho	3	0	0
 Idaho-Idaho	3	0	0
 Jefferson-Idaho	4	0	0
 Jerome-Idaho	18	0	0
-Kootenai-Idaho	43	0	0
+Kootenai-Idaho	42	0	0
 Latah-Idaho	2	0	0
 Lemhi-Idaho	0	0	0
 Lewis-Idaho	0	0	0
 Lincoln-Idaho	12	0	0
 Madison-Idaho	4	0	0
 Minidoka-Idaho	3	0	0
-Nez Perce-Idaho	15	2	0
+Nez Perce-Idaho	17	2	0
 Oneida-Idaho	0	0	0
 Owyhee-Idaho	2	0	0
 Payette-Idaho	6	1	0
-Power-Idaho	0	0	0
+Power-Idaho	2	0	0
 Shoshone-Idaho	0	0	0
 Teton-Idaho	5	0	0
 Twin Falls-Idaho	53	1	0
 Valley-Idaho	2	0	0
 Washington-Idaho	1	0	0
-Adams-Illinois	8	0	0
+Adams-Illinois	1	0	0
 Alexander-Illinois	0	0	0
 Bond-Illinois	3	0	0
-Boone-Illinois	4	0	0
+Boone-Illinois	7	1	0
 Brown-Illinois	0	0	0
-Bureau-Illinois	3	0	0
+Bureau-Illinois	4	0	0
 Calhoun-Illinois	1	0	0
-Carroll-Illinois	4	1	0
+Carroll-Illinois	5	1	0
 Cass-Illinois	0	0	0
-Champaign-Illinois	67	1	0
-Christian-Illinois	22	2	0
-Clark-Illinois	2	0	0
+Champaign-Illinois	69	1	0
+Christian-Illinois	23	3	0
+Clark-Illinois	3	0	0
 Clay-Illinois	0	0	0
-Clinton-Illinois	11	0	0
-Coles-Illinois	0	0	0
-Cook-Illinois	8728	209	0
-Crawford-Illinois	5	0	0
+Clinton-Illinois	13	0	0
+Coles-Illinois	2	0	0
+Cook-Illinois	10520	310	0
+Crawford-Illinois	4	0	0
 Cumberland-Illinois	1	0	0
 De Kalb-Illinois	0	0	0
-De Witt-Illinois	3	0	0
+De Witt-Illinois	2	0	0
 Douglas-Illinois	10	0	0
 Du Page-Illinois	0	0	0
 Edgar-Illinois	0	0	0
 Edwards-Illinois	0	0	0
-Effingham-Illinois	1	0	0
-Fayette-Illinois	3	0	0
-Ford-Illinois	1	0	0
+Effingham-Illinois	2	0	0
+Fayette-Illinois	4	0	0
+Ford-Illinois	3	1	0
 Franklin-Illinois	2	0	0
 Fulton-Illinois	0	0	0
 Gallatin-Illinois	1	0	0
 Greene-Illinois	0	0	0
-Grundy-Illinois	9	0	0
+Grundy-Illinois	12	0	0
 Hamilton-Illinois	0	0	0
-Hancock-Illinois	0	0	0
+Hancock-Illinois	1	0	0
 Hardin-Illinois	0	0	0
 Henderson-Illinois	0	0	0
-Henry-Illinois	10	0	0
-Iroquois-Illinois	6	0	0
-Jackson-Illinois	14	1	0
-Jasper-Illinois	4	0	0
+Henry-Illinois	16	0	0
+Iroquois-Illinois	7	0	0
+Jackson-Illinois	22	1	0
+Jasper-Illinois	3	0	0
 Jefferson-Illinois	3	0	0
-Jersey-Illinois	3	0	0
-Jo Daviess-Illinois	6	0	0
+Jersey-Illinois	5	0	0
+Jo Daviess-Illinois	8	0	0
 Johnson-Illinois	0	0	0
-Kane-Illinois	234	15	0
-Kankakee-Illinois	85	4	0
-Kendall-Illinois	55	2	0
+Kane-Illinois	296	19	0
+Kankakee-Illinois	145	5	0
+Kendall-Illinois	79	2	0
 Knox-Illinois	1	0	0
-Lake-Illinois	815	15	0
+Lake-Illinois	1041	23	0
 La Salle-Illinois	0	0	0
 Lawrence-Illinois	2	0	0
-Lee-Illinois	2	0	0
-Livingston-Illinois	9	0	0
-Logan-Illinois	1	0	0
+Lee-Illinois	6	0	0
+Livingston-Illinois	10	0	0
+Logan-Illinois	3	0	0
 McDonough-Illinois	0	0	0
-McHenry-Illinois	144	3	0
-McLean-Illinois	46	2	0
-Macon-Illinois	9	0	0
-Macoupin-Illinois	7	0	0
-Madison-Illinois	52	0	0
-Marion-Illinois	3	0	0
+McHenry-Illinois	180	5	0
+McLean-Illinois	65	2	0
+Macon-Illinois	13	1	0
+Macoupin-Illinois	10	0	0
+Madison-Illinois	82	2	0
+Marion-Illinois	4	0	0
 Marshall-Illinois	1	0	0
-Mason-Illinois	1	0	0
+Mason-Illinois	3	0	0
 Massac-Illinois	2	0	0
 Menard-Illinois	2	0	0
 Mercer-Illinois	2	0	0
-Monroe-Illinois	11	0	0
-Montgomery-Illinois	3	1	0
-Morgan-Illinois	7	1	0
-Moultrie-Illinois	1	0	0
-Ogle-Illinois	7	0	0
-Peoria-Illinois	12	1	0
+Monroe-Illinois	20	1	0
+Montgomery-Illinois	4	1	0
+Morgan-Illinois	8	1	0
+Moultrie-Illinois	2	0	0
+Ogle-Illinois	12	0	0
+Peoria-Illinois	16	1	0
 Perry-Illinois	0	0	0
-Piatt-Illinois	3	0	0
+Piatt-Illinois	4	0	0
 Pike-Illinois	1	0	0
 Pope-Illinois	0	0	0
 Pulaski-Illinois	0	0	0
 Putnam-Illinois	0	0	0
-Randolph-Illinois	27	0	0
-Richland-Illinois	0	0	0
-Rock Island-Illinois	47	0	0
+Randolph-Illinois	31	0	0
+Richland-Illinois	1	0	0
+Rock Island-Illinois	67	0	0
 St Clair-Illinois	0	0	0
-Saline-Illinois	1	0	0
-Sangamon-Illinois	31	2	0
+Saline-Illinois	2	0	0
+Sangamon-Illinois	33	2	0
 Schuyler-Illinois	0	0	0
 Scott-Illinois	0	0	0
-Shelby-Illinois	0	0	0
-Stark-Illinois	0	0	0
-Stephenson-Illinois	5	0	0
-Tazewell-Illinois	14	0	0
+Shelby-Illinois	3	0	0
+Stark-Illinois	1	0	0
+Stephenson-Illinois	6	0	0
+Tazewell-Illinois	17	2	0
 Union-Illinois	0	0	0
 Vermilion-Illinois	5	0	0
 Wabash-Illinois	1	0	0
@@ -688,127 +688,127 @@ Warren-Illinois	0	0	0
 Washington-Illinois	2	0	0
 Wayne-Illinois	0	0	0
 White-Illinois	0	0	0
-Whiteside-Illinois	18	1	0
-Will-Illinois	697	19	0
-Williamson-Illinois	3	0	0
-Winnebago-Illinois	49	1	0
-Woodford-Illinois	6	0	0
+Whiteside-Illinois	21	1	0
+Will-Illinois	914	37	0
+Williamson-Illinois	9	0	0
+Winnebago-Illinois	63	3	0
+Woodford-Illinois	7	0	0
 Adams-Indiana	2	0	0
-Allen-Indiana	90	6	0
-Bartholomew-Indiana	55	4	0
+Allen-Indiana	95	7	0
+Bartholomew-Indiana	66	4	0
 Benton-Indiana	0	0	0
 Blackford-Indiana	4	0	0
-Boone-Indiana	74	1	0
-Brown-Indiana	8	1	0
+Boone-Indiana	76	2	0
+Brown-Indiana	9	1	0
 Carroll-Indiana	3	0	0
-Cass-Indiana	12	0	0
-Clark-Indiana	82	7	0
-Clay-Indiana	7	0	0
-Clinton-Indiana	5	0	0
-Crawford-Indiana	9	0	0
-Daviess-Indiana	4	0	0
-Dearborn-Indiana	41	1	0
-Decatur-Indiana	90	6	0
+Cass-Indiana	15	0	0
+Clark-Indiana	86	7	0
+Clay-Indiana	11	0	0
+Clinton-Indiana	8	0	0
+Crawford-Indiana	11	0	0
+Daviess-Indiana	5	1	0
+Dearborn-Indiana	47	2	0
+Decatur-Indiana	99	6	0
 De Kalb-Indiana	0	0	0
-Delaware-Indiana	40	1	0
-Dubois-Indiana	7	0	0
-Elkhart-Indiana	43	3	0
+Delaware-Indiana	46	1	0
+Dubois-Indiana	9	0	0
+Elkhart-Indiana	46	3	0
 Fayette-Indiana	18	3	0
-Floyd-Indiana	74	1	0
+Floyd-Indiana	77	3	0
 Fountain-Indiana	2	1	0
-Franklin-Indiana	60	7	0
+Franklin-Indiana	61	7	0
 Fulton-Indiana	3	0	0
 Gibson-Indiana	4	0	0
-Grant-Indiana	20	2	0
-Greene-Indiana	11	0	0
-Hamilton-Indiana	363	10	0
-Hancock-Indiana	89	2	0
+Grant-Indiana	22	2	0
+Greene-Indiana	12	0	0
+Hamilton-Indiana	392	15	0
+Hancock-Indiana	99	2	0
 Harrison-Indiana	48	1	0
-Hendricks-Indiana	225	5	0
-Henry-Indiana	16	0	0
-Howard-Indiana	37	4	0
+Hendricks-Indiana	243	6	0
+Henry-Indiana	19	0	0
+Howard-Indiana	44	4	0
 Huntington-Indiana	6	1	0
-Jackson-Indiana	40	0	0
+Jackson-Indiana	46	0	0
 Jasper-Indiana	14	1	0
 Jay-Indiana	3	0	0
-Jefferson-Indiana	6	0	0
-Jennings-Indiana	41	0	0
-Johnson-Indiana	212	7	0
-Knox-Indiana	9	0	0
-Kosciusko-Indiana	14	0	0
+Jefferson-Indiana	7	0	0
+Jennings-Indiana	42	0	0
+Johnson-Indiana	230	8	0
+Knox-Indiana	10	0	0
+Kosciusko-Indiana	16	0	0
 La Grange-Indiana	0	0	0
-Lake-Indiana	418	11	0
+Lake-Indiana	461	12	0
 La Porte-Indiana	0	0	0
-Lawrence-Indiana	44	5	0
-Madison-Indiana	137	11	0
-Marion-Indiana	2141	48	0
-Marshall-Indiana	10	0	0
+Lawrence-Indiana	55	7	0
+Madison-Indiana	143	11	0
+Marion-Indiana	2290	58	0
+Marshall-Indiana	11	0	0
 Martin-Indiana	1	0	0
-Miami-Indiana	9	0	0
-Monroe-Indiana	54	0	0
-Montgomery-Indiana	16	0	0
-Morgan-Indiana	79	1	0
+Miami-Indiana	12	0	0
+Monroe-Indiana	60	0	0
+Montgomery-Indiana	17	0	0
+Morgan-Indiana	82	1	0
 Newton-Indiana	6	1	0
 Noble-Indiana	11	1	0
 Ohio-Indiana	1	0	0
-Orange-Indiana	14	2	0
+Orange-Indiana	11	2	0
 Owen-Indiana	17	0	0
-Parke-Indiana	6	0	0
+Parke-Indiana	5	0	0
 Perry-Indiana	0	0	0
 Pike-Indiana	0	0	0
-Porter-Indiana	84	0	0
+Porter-Indiana	85	0	0
 Posey-Indiana	5	0	0
 Pulaski-Indiana	1	0	0
-Putnam-Indiana	25	1	0
+Putnam-Indiana	27	1	0
 Randolph-Indiana	7	1	0
-Ripley-Indiana	76	2	0
+Ripley-Indiana	76	3	0
 Rush-Indiana	14	1	0
 St Joseph-Indiana	0	0	0
-Scott-Indiana	8	1	0
-Shelby-Indiana	51	0	0
+Scott-Indiana	11	2	0
+Shelby-Indiana	56	1	0
 Spencer-Indiana	1	0	0
-Starke-Indiana	5	0	0
-Steuben-Indiana	9	0	0
-Sullivan-Indiana	3	0	0
+Starke-Indiana	6	0	0
+Steuben-Indiana	10	1	0
+Sullivan-Indiana	4	0	0
 Switzerland-Indiana	11	0	0
-Tippecanoe-Indiana	36	1	0
-Tipton-Indiana	8	0	0
-Union-Indiana	3	0	0
+Tippecanoe-Indiana	38	1	0
+Tipton-Indiana	9	0	0
+Union-Indiana	5	0	0
 Vanderburgh-Indiana	41	1	0
 Vermillion-Indiana	2	0	0
-Vigo-Indiana	25	2	0
+Vigo-Indiana	32	2	0
 Wabash-Indiana	5	0	0
 Warren-Indiana	2	1	0
-Warrick-Indiana	23	0	0
-Washington-Indiana	20	0	0
-Wayne-Indiana	13	1	0
+Warrick-Indiana	26	0	0
+Washington-Indiana	21	0	0
+Wayne-Indiana	16	1	0
 Wells-Indiana	2	0	0
 White-Indiana	3	0	0
 Whitley-Indiana	8	1	0
 Adair-Iowa	1	0	0
 Adams-Iowa	0	0	0
-Allamakee-Iowa	17	1	0
+Allamakee-Iowa	19	1	0
 Appanoose-Iowa	1	1	0
 Audubon-Iowa	1	0	0
-Benton-Iowa	11	0	0
-Black Hawk-Iowa	15	0	0
+Benton-Iowa	12	1	0
+Black Hawk-Iowa	19	0	0
 Boone-Iowa	3	0	0
 Bremer-Iowa	2	0	0
 Buchanan-Iowa	5	0	0
-Buena Vista-Iowa	0	0	0
+Buena Vista-Iowa	1	0	0
 Butler-Iowa	1	0	0
 Calhoun-Iowa	0	0	0
 Carroll-Iowa	1	0	0
 Cass-Iowa	0	0	0
-Cedar-Iowa	13	0	0
+Cedar-Iowa	18	0	0
 Cerro Gordo-Iowa	12	0	0
 Cherokee-Iowa	0	0	0
 Chickasaw-Iowa	1	0	0
 Clarke-Iowa	1	0	0
 Clay-Iowa	2	0	0
 Clayton-Iowa	5	0	0
-Clinton-Iowa	17	0	0
-Crawford-Iowa	5	0	0
+Clinton-Iowa	19	0	0
+Crawford-Iowa	6	0	0
 Dallas-Iowa	35	0	0
 Davis-Iowa	0	0	0
 Decatur-Iowa	0	0	0
@@ -821,14 +821,14 @@ Fayette-Iowa	3	0	0
 Floyd-Iowa	0	0	0
 Franklin-Iowa	1	0	0
 Fremont-Iowa	0	0	0
-Greene-Iowa	0	0	0
+Greene-Iowa	1	0	0
 Grundy-Iowa	1	0	0
 Guthrie-Iowa	1	0	0
 Hamilton-Iowa	2	0	0
 Hancock-Iowa	3	0	0
 Hardin-Iowa	1	0	0
-Harrison-Iowa	10	0	0
-Henry-Iowa	13	1	0
+Harrison-Iowa	11	0	0
+Henry-Iowa	15	1	0
 Howard-Iowa	1	0	0
 Humboldt-Iowa	0	0	0
 Ida-Iowa	0	0	0
@@ -836,59 +836,59 @@ Iowa-Iowa	6	0	0
 Jackson-Iowa	4	0	0
 Jasper-Iowa	8	0	0
 Jefferson-Iowa	3	0	0
-Johnson-Iowa	134	1	0
+Johnson-Iowa	147	1	0
 Jones-Iowa	6	0	0
 Keokuk-Iowa	2	0	0
 Kossuth-Iowa	1	0	0
 Lee-Iowa	1	0	0
-Linn-Iowa	186	7	0
-Louisa-Iowa	20	0	0
+Linn-Iowa	197	8	0
+Louisa-Iowa	30	0	0
 Lucas-Iowa	0	0	0
 Lyon-Iowa	2	0	0
 Madison-Iowa	1	0	0
 Mahaska-Iowa	4	0	0
 Marion-Iowa	2	0	0
-Marshall-Iowa	14	0	0
+Marshall-Iowa	15	0	0
 Mills-Iowa	1	0	0
 Mitchell-Iowa	2	0	0
 Monona-Iowa	6	0	0
 Monroe-Iowa	0	0	0
 Montgomery-Iowa	1	0	0
-Muscatine-Iowa	51	1	0
+Muscatine-Iowa	61	1	0
 O Brien-Iowa	0	0	0
 Osceola-Iowa	0	0	0
 Page-Iowa	3	0	0
 Palo Alto-Iowa	0	0	0
 Plymouth-Iowa	4	0	0
 Pocahontas-Iowa	0	0	0
-Polk-Iowa	127	4	0
-Pottawattamie-Iowa	9	0	0
+Polk-Iowa	134	4	0
+Pottawattamie-Iowa	11	0	0
 Poweshiek-Iowa	6	1	0
 Ringgold-Iowa	0	0	0
 Sac-Iowa	0	0	0
-Scott-Iowa	66	1	0
+Scott-Iowa	77	1	0
 Shelby-Iowa	6	0	0
 Sioux-Iowa	7	0	0
 Story-Iowa	6	0	0
-Tama-Iowa	42	2	0
+Tama-Iowa	46	2	0
 Taylor-Iowa	1	0	0
 Union-Iowa	0	0	0
 Van Buren-Iowa	6	0	0
 Wapello-Iowa	2	0	0
-Warren-Iowa	12	0	0
-Washington-Iowa	57	3	0
+Warren-Iowa	13	0	0
+Washington-Iowa	62	3	0
 Wayne-Iowa	0	0	0
-Webster-Iowa	1	0	0
+Webster-Iowa	2	0	0
 Winnebago-Iowa	1	0	0
 Winneshiek-Iowa	4	0	0
-Woodbury-Iowa	9	0	0
-Worth-Iowa	0	0	0
+Woodbury-Iowa	11	0	0
+Worth-Iowa	1	0	0
 Wright-Iowa	1	0	0
 Allen-Kansas	0	0	0
 Anderson-Kansas	0	0	0
 Atchison-Kansas	2	0	0
 Barber-Kansas	1	0	0
-Barton-Kansas	3	0	0
+Barton-Kansas	4	0	0
 Bourbon-Kansas	7	1	0
 Brown-Kansas	0	0	0
 Butler-Kansas	8	0	0
@@ -897,12 +897,12 @@ Chautauqua-Kansas	3	0	0
 Cherokee-Kansas	5	0	0
 Cheyenne-Kansas	0	0	0
 Clark-Kansas	0	0	0
-Clay-Kansas	1	0	0
-Cloud-Kansas	2	0	0
-Coffey-Kansas	32	1	0
+Clay-Kansas	1	2	0
+Cloud-Kansas	3	0	0
+Coffey-Kansas	35	1	0
 Comanche-Kansas	0	0	0
 Cowley-Kansas	1	0	0
-Crawford-Kansas	6	1	0
+Crawford-Kansas	4	1	0
 Decatur-Kansas	0	0	0
 Dickinson-Kansas	0	0	0
 Doniphan-Kansas	1	0	0
@@ -912,7 +912,7 @@ Elk-Kansas	0	0	0
 Ellis-Kansas	0	0	0
 Ellsworth-Kansas	0	0	0
 Finney-Kansas	11	0	0
-Ford-Kansas	1	0	0
+Ford-Kansas	2	0	0
 Franklin-Kansas	10	0	0
 Geary-Kansas	4	0	0
 Gove-Kansas	1	0	0
@@ -927,26 +927,26 @@ Harvey-Kansas	4	0	0
 Haskell-Kansas	0	0	0
 Hodgeman-Kansas	0	0	0
 Jackson-Kansas	1	0	0
-Jefferson-Kansas	3	0	0
-Jewell-Kansas	1	0	0
-Johnson-Kansas	219	10	0
+Jefferson-Kansas	5	0	0
+Jewell-Kansas	2	0	0
+Johnson-Kansas	244	11	0
 Kearny-Kansas	0	0	0
 Kingman-Kansas	0	0	0
 Kiowa-Kansas	0	0	0
-Labette-Kansas	8	0	0
+Labette-Kansas	9	0	0
 Lane-Kansas	0	0	0
-Leavenworth-Kansas	43	1	0
+Leavenworth-Kansas	59	1	0
 Lincoln-Kansas	0	0	0
 Linn-Kansas	5	0	0
 Logan-Kansas	0	0	0
-Lyon-Kansas	25	0	0
-McPherson-Kansas	10	0	0
+Lyon-Kansas	26	0	0
+McPherson-Kansas	11	0	0
 Marion-Kansas	3	0	0
 Marshall-Kansas	0	0	0
 Meade-Kansas	0	0	0
 Miami-Kansas	2	0	0
 Mitchell-Kansas	2	0	0
-Montgomery-Kansas	9	0	0
+Montgomery-Kansas	11	0	0
 Morris-Kansas	2	0	0
 Morton-Kansas	1	0	0
 Nemaha-Kansas	0	0	0
@@ -958,21 +958,21 @@ Osborne-Kansas	2	0	0
 Ottawa-Kansas	3	0	0
 Pawnee-Kansas	0	0	0
 Phillips-Kansas	0	0	0
-Pottawatomie-Kansas	3	0	0
+Pottawatomie-Kansas	5	0	0
 Pratt-Kansas	1	0	0
 Rawlins-Kansas	0	0	0
-Reno-Kansas	11	0	0
-Republic-Kansas	2	0	0
+Reno-Kansas	10	0	0
+Republic-Kansas	3	0	0
 Rice-Kansas	0	0	0
-Riley-Kansas	17	0	0
-Rooks-Kansas	0	0	0
+Riley-Kansas	19	0	0
+Rooks-Kansas	2	0	0
 Rush-Kansas	0	0	0
 Russell-Kansas	0	0	0
 Saline-Kansas	7	1	0
 Scott-Kansas	1	0	0
-Sedgwick-Kansas	134	1	0
-Seward-Kansas	1	0	0
-Shawnee-Kansas	47	3	0
+Sedgwick-Kansas	154	1	0
+Seward-Kansas	3	0	0
+Shawnee-Kansas	50	3	0
 Sheridan-Kansas	0	0	0
 Sherman-Kansas	0	0	0
 Smith-Kansas	0	0	0
@@ -988,7 +988,7 @@ Washington-Kansas	0	0	0
 Wichita-Kansas	0	0	0
 Wilson-Kansas	0	0	0
 Woodson-Kansas	3	0	0
-Wyandotte-Kansas	195	10	0
+Wyandotte-Kansas	245	12	0
 Adair-Kentucky	3	0	0
 Allen-Kentucky	2	0	0
 Anderson-Kentucky	3	1	0
@@ -1109,47 +1109,47 @@ Webster-Kentucky	3	0	0
 Whitley-Kentucky	0	0	0
 Wolfe-Kentucky	0	0	0
 Woodford-Kentucky	8	1	0
-Acadia-Louisiana	82	2	0
-Allen-Louisiana	58	5	0
-Ascension-Louisiana	358	11	0
-Assumption-Louisiana	84	1	0
-Avoyelles-Louisiana	45	1	0
-Beauregard-Louisiana	23	0	0
+Acadia-Louisiana	86	2	0
+Allen-Louisiana	65	5	0
+Ascension-Louisiana	366	15	0
+Assumption-Louisiana	89	0	0
+Avoyelles-Louisiana	48	1	0
+Beauregard-Louisiana	23	1	0
 Bienville-Louisiana	17	1	0
-Bossier-Louisiana	146	4	0
-Caddo-Louisiana	756	26	0
-Calcasieu-Louisiana	186	3	0
-Caldwell-Louisiana	13	0	0
+Bossier-Louisiana	159	6	0
+Caddo-Louisiana	803	25	0
+Calcasieu-Louisiana	191	4	0
+Caldwell-Louisiana	14	0	0
 Cameron-Louisiana	1	0	0
-Catahoula-Louisiana	13	1	0
-Claiborne-Louisiana	30	2	0
-Concordia-Louisiana	11	1	0
-De Soto-Louisiana	89	6	0
-East Baton Rouge-Louisiana	892	31	0
+Catahoula-Louisiana	14	1	0
+Claiborne-Louisiana	33	2	0
+Concordia-Louisiana	12	1	0
+De Soto-Louisiana	91	7	0
+East Baton Rouge-Louisiana	935	33	0
 East Carroll-Louisiana	1	0	0
-East Feliciana-Louisiana	39	0	0
-Evangeline-Louisiana	23	0	0
-Franklin-Louisiana	28	0	0
+East Feliciana-Louisiana	39	1	0
+Evangeline-Louisiana	25	0	0
+Franklin-Louisiana	30	0	0
 Grant-Louisiana	10	0	0
-Iberia-Louisiana	89	5	0
-Iberville-Louisiana	160	8	0
+Iberia-Louisiana	97	4	0
+Iberville-Louisiana	171	9	0
 Jackson-Louisiana	5	0	0
-Jefferson-Louisiana	3922	137	0
-Jefferson Davis-Louisiana	25	1	0
-Lafayette-Louisiana	272	7	0
-Lafourche-Louisiana	322	7	0
+Jefferson-Louisiana	4092	149	0
+Jefferson Davis-Louisiana	28	1	0
+Lafayette-Louisiana	285	10	0
+Lafourche-Louisiana	355	11	0
 La Salle-Louisiana	0	0	0
-Lincoln-Louisiana	22	0	0
-Livingston-Louisiana	94	1	0
+Lincoln-Louisiana	24	0	0
+Livingston-Louisiana	99	1	0
 Madison-Louisiana	2	0	0
-Morehouse-Louisiana	20	0	0
-Natchitoches-Louisiana	24	0	0
-Orleans-Louisiana	4942	185	0
-Ouachita-Louisiana	264	1	0
-Plaquemines-Louisiana	115	7	0
-Pointe Coupee-Louisiana	26	0	0
-Rapides-Louisiana	129	4	0
-Red River-Louisiana	2	1	0
+Morehouse-Louisiana	23	0	0
+Natchitoches-Louisiana	25	0	0
+Orleans-Louisiana	5070	208	0
+Ouachita-Louisiana	275	3	0
+Plaquemines-Louisiana	123	7	0
+Pointe Coupee-Louisiana	27	0	0
+Rapides-Louisiana	135	4	0
+Red River-Louisiana	3	1	0
 Richland-Louisiana	13	0	0
 Sabine-Louisiana	7	0	0
 St Bernard-Louisiana	0	0	0
@@ -1161,23 +1161,23 @@ St Landry-Louisiana	0	0	0
 St Martin-Louisiana	0	0	0
 St Mary-Louisiana	0	0	0
 St Tammany-Louisiana	0	0	0
-Tangipahoa-Louisiana	238	3	0
+Tangipahoa-Louisiana	269	4	0
 Tensas-Louisiana	0	0	0
-Terrebonne-Louisiana	194	11	0
-Union-Louisiana	33	0	0
-Vermilion-Louisiana	19	1	0
+Terrebonne-Louisiana	209	14	0
+Union-Louisiana	35	3	0
+Vermilion-Louisiana	22	1	0
 Vernon-Louisiana	11	0	0
-Washington-Louisiana	100	2	0
-Webster-Louisiana	50	2	0
-West Baton Rouge-Louisiana	52	7	0
+Washington-Louisiana	106	5	0
+Webster-Louisiana	51	2	0
+West Baton Rouge-Louisiana	54	9	0
 West Carroll-Louisiana	1	0	0
-West Feliciana-Louisiana	31	0	0
-Winn-Louisiana	3	1	0
+West Feliciana-Louisiana	32	0	0
+Winn-Louisiana	5	2	0
 Androscoggin-Maine	23	0	0
 Aroostook-Maine	2	0	0
-Cumberland-Maine	253	9	0
+Cumberland-Maine	262	10	0
 Franklin-Maine	5	0	0
-Hancock-Maine	2	0	0
+Hancock-Maine	3	0	0
 Kennebec-Maine	26	1	0
 Knox-Maine	9	0	0
 Lincoln-Maine	9	0	0
@@ -1185,158 +1185,158 @@ Oxford-Maine	12	0	0
 Penobscot-Maine	31	0	0
 Piscataquis-Maine	0	0	0
 Sagadahoc-Maine	13	0	0
-Somerset-Maine	4	0	0
-Waldo-Maine	5	0	0
+Somerset-Maine	5	0	0
+Waldo-Maine	7	1	0
 Washington-Maine	1	0	0
-York-Maine	115	2	0
-Allegany-Maryland	7	0	0
-Anne Arundel-Maryland	370	8	0
-Baltimore-Maryland	652	11	0
-Calvert-Maryland	41	1	0
+York-Maine	121	2	0
+Allegany-Maryland	6	0	0
+Anne Arundel-Maryland	466	12	0
+Baltimore-Maryland	866	13	0
+Calvert-Maryland	56	1	0
 Caroline-Maryland	11	0	0
-Carroll-Maryland	159	16	0
-Cecil-Maryland	41	1	0
-Charles-Maryland	136	2	0
-Dorchester-Maryland	3	0	0
-Frederick-Maryland	151	4	0
-Garrett-Maryland	3	0	0
-Harford-Maryland	59	0	0
-Howard-Maryland	236	3	0
-Kent-Maryland	8	0	0
-Montgomery-Maryland	871	21	0
+Carroll-Maryland	186	18	0
+Cecil-Maryland	49	1	0
+Charles-Maryland	164	2	0
+Dorchester-Maryland	4	0	0
+Frederick-Maryland	199	4	0
+Garrett-Maryland	5	0	0
+Harford-Maryland	86	0	0
+Howard-Maryland	274	3	0
+Kent-Maryland	9	0	0
+Montgomery-Maryland	1088	26	0
 Prince Georges-Maryland	0	0	0
 Queen Annes-Maryland	0	0	0
 St Marys-Maryland	0	0	0
 Somerset-Maryland	4	0	0
-Talbot-Maryland	8	0	0
-Washington-Maryland	44	0	0
-Wicomico-Maryland	17	1	0
+Talbot-Maryland	10	1	0
+Washington-Maryland	57	0	0
+Wicomico-Maryland	20	1	0
 Worcester-Maryland	10	0	0
-Baltimore City-Maryland	459	9	0
-Barnstable-Massachusetts	405	10	0
-Berkshire-Massachusetts	278	16	0
-Bristol-Massachusetts	768	16	0
+Baltimore City-Maryland	571	10	0
+Barnstable-Massachusetts	423	11	0
+Berkshire-Massachusetts	281	18	0
+Bristol-Massachusetts	835	23	0
 Dukes-Massachusetts	0	0	0
-Essex-Massachusetts	1841	35	0
-Franklin-Massachusetts	118	17	0
-Hampden-Massachusetts	997	55	0
-Hampshire-Massachusetts	158	3	0
-Middlesex-Massachusetts	3187	68	0
+Essex-Massachusetts	2103	50	0
+Franklin-Massachusetts	117	21	0
+Hampden-Massachusetts	1081	62	0
+Hampshire-Massachusetts	164	3	0
+Middlesex-Massachusetts	3545	80	0
 Nantucket-Massachusetts	0	0	0
-Norfolk-Massachusetts	1592	35	0
-Plymouth-Massachusetts	1194	26	0
-Suffolk-Massachusetts	3245	40	0
-Worcester-Massachusetts	1172	23	0
+Norfolk-Massachusetts	1778	41	0
+Plymouth-Massachusetts	1327	33	0
+Suffolk-Massachusetts	3600	48	0
+Worcester-Massachusetts	1296	29	0
 Alcona-Michigan	0	0	0
 Alger-Michigan	0	0	0
 Allegan-Michigan	18	0	0
 Alpena-Michigan	0	0	0
 Antrim-Michigan	6	0	0
-Arenac-Michigan	3	0	0
+Arenac-Michigan	4	0	0
 Baraga-Michigan	0	0	0
 Barry-Michigan	7	0	0
-Bay-Michigan	31	0	0
+Bay-Michigan	39	0	0
 Benzie-Michigan	0	0	0
-Berrien-Michigan	64	2	0
-Branch-Michigan	16	1	0
-Calhoun-Michigan	43	1	0
+Berrien-Michigan	72	2	0
+Branch-Michigan	18	1	0
+Calhoun-Michigan	51	1	0
 Cass-Michigan	9	1	0
 Charlevoix-Michigan	8	0	0
 Cheboygan-Michigan	10	1	0
 Chippewa-Michigan	1	0	0
 Clare-Michigan	2	0	0
-Clinton-Michigan	73	1	0
+Clinton-Michigan	82	1	0
 Crawford-Michigan	5	1	0
-Delta-Michigan	7	0	0
+Delta-Michigan	8	0	0
 Dickinson-Michigan	2	1	0
-Eaton-Michigan	61	2	0
-Emmet-Michigan	14	2	0
-Genesee-Michigan	638	33	0
+Eaton-Michigan	67	3	0
+Emmet-Michigan	15	2	0
+Genesee-Michigan	713	39	0
 Gladwin-Michigan	4	0	0
 Gogebic-Michigan	3	1	0
 Grand Traverse-Michigan	15	3	0
-Gratiot-Michigan	6	0	0
-Hillsdale-Michigan	55	4	0
+Gratiot-Michigan	5	0	0
+Hillsdale-Michigan	62	4	0
 Houghton-Michigan	1	0	0
 Huron-Michigan	4	0	0
-Ingham-Michigan	189	1	0
-Ionia-Michigan	9	1	0
+Ingham-Michigan	205	2	0
+Ionia-Michigan	11	1	0
 Iosco-Michigan	4	1	0
 Iron-Michigan	0	0	0
 Isabella-Michigan	22	2	0
-Jackson-Michigan	114	4	0
-Kalamazoo-Michigan	64	4	0
+Jackson-Michigan	126	4	0
+Kalamazoo-Michigan	67	6	0
 Kalkaska-Michigan	10	2	0
-Kent-Michigan	187	6	0
+Kent-Michigan	207	8	0
 Keweenaw-Michigan	0	0	0
 Lake-Michigan	0	0	0
-Lapeer-Michigan	56	3	0
-Leelanau-Michigan	3	0	0
-Lenawee-Michigan	32	0	0
-Livingston-Michigan	155	2	0
+Lapeer-Michigan	64	5	0
+Leelanau-Michigan	4	0	0
+Lenawee-Michigan	36	0	0
+Livingston-Michigan	174	2	0
 Luce-Michigan	1	0	0
 Mackinac-Michigan	3	0	0
-Macomb-Michigan	2414	121	0
+Macomb-Michigan	2626	141	0
 Manistee-Michigan	9	0	0
-Marquette-Michigan	19	2	0
+Marquette-Michigan	18	2	0
 Mason-Michigan	1	0	0
 Mecosta-Michigan	8	1	0
 Menominee-Michigan	0	0	0
-Midland-Michigan	22	0	0
+Midland-Michigan	24	1	0
 Missaukee-Michigan	1	1	0
-Monroe-Michigan	129	0	0
-Montcalm-Michigan	16	1	0
+Monroe-Michigan	152	0	0
+Montcalm-Michigan	18	1	0
 Montmorency-Michigan	0	0	0
-Muskegon-Michigan	41	4	0
+Muskegon-Michigan	42	4	0
 Newaygo-Michigan	3	0	0
-Oakland-Michigan	3736	205	0
-Oceana-Michigan	3	0	0
+Oakland-Michigan	4007	234	0
+Oceana-Michigan	3	1	0
 Ogemaw-Michigan	3	0	0
 Ontonagon-Michigan	0	0	0
 Osceola-Michigan	3	0	0
 Oscoda-Michigan	2	0	0
-Otsego-Michigan	28	2	0
-Ottawa-Michigan	52	0	0
+Otsego-Michigan	29	2	0
+Ottawa-Michigan	55	0	0
 Presque Isle-Michigan	1	0	0
 Roscommon-Michigan	6	0	0
-Saginaw-Michigan	153	3	0
+Saginaw-Michigan	186	6	0
 St Clair-Michigan	0	0	0
 St Joseph-Michigan	0	0	0
-Sanilac-Michigan	17	2	0
-Schoolcraft-Michigan	0	0	0
-Shiawassee-Michigan	24	0	0
-Tuscola-Michigan	26	2	0
-Van Buren-Michigan	17	1	0
-Washtenaw-Michigan	559	11	0
-Wayne-Michigan	9045	402	0
+Sanilac-Michigan	22	2	0
+Schoolcraft-Michigan	1	0	0
+Shiawassee-Michigan	27	0	0
+Tuscola-Michigan	27	2	0
+Van Buren-Michigan	18	1	0
+Washtenaw-Michigan	610	13	0
+Wayne-Michigan	9626	446	0
 Wexford-Michigan	7	0	0
 Aitkin-Minnesota	0	0	0
-Anoka-Minnesota	42	0	0
+Anoka-Minnesota	46	0	0
 Becker-Minnesota	0	0	0
 Beltrami-Minnesota	6	0	0
 Benton-Minnesota	1	0	0
 Big Stone-Minnesota	1	0	0
-Blue Earth-Minnesota	22	0	0
+Blue Earth-Minnesota	21	0	0
 Brown-Minnesota	7	0	0
-Carlton-Minnesota	13	0	0
+Carlton-Minnesota	14	0	0
 Carver-Minnesota	10	0	0
 Cass-Minnesota	3	0	0
 Chippewa-Minnesota	0	0	0
 Chisago-Minnesota	5	1	0
-Clay-Minnesota	19	0	0
+Clay-Minnesota	20	0	0
 Clearwater-Minnesota	2	0	0
 Cook-Minnesota	0	0	0
 Cottonwood-Minnesota	5	0	0
-Crow Wing-Minnesota	9	0	0
-Dakota-Minnesota	71	3	0
-Dodge-Minnesota	11	0	0
+Crow Wing-Minnesota	10	0	0
+Dakota-Minnesota	75	3	0
+Dodge-Minnesota	13	0	0
 Douglas-Minnesota	1	0	0
 Faribault-Minnesota	3	0	0
 Fillmore-Minnesota	10	0	0
-Freeborn-Minnesota	14	0	0
-Goodhue-Minnesota	12	0	0
+Freeborn-Minnesota	17	0	0
+Goodhue-Minnesota	13	0	0
 Grant-Minnesota	0	0	0
-Hennepin-Minnesota	310	16	0
+Hennepin-Minnesota	344	18	0
 Houston-Minnesota	1	0	0
 Hubbard-Minnesota	0	0	0
 Isanti-Minnesota	4	0	0
@@ -1361,28 +1361,28 @@ Mille Lacs-Minnesota	0	0	0
 Morrison-Minnesota	0	0	0
 Mower-Minnesota	18	0	0
 Murray-Minnesota	1	0	0
-Nicollet-Minnesota	4	0	0
+Nicollet-Minnesota	5	0	0
 Nobles-Minnesota	0	0	0
 Norman-Minnesota	0	0	0
-Olmsted-Minnesota	103	2	0
+Olmsted-Minnesota	108	2	0
 Otter Tail-Minnesota	2	0	0
 Pennington-Minnesota	0	0	0
 Pine-Minnesota	0	0	0
 Pipestone-Minnesota	1	0	0
 Polk-Minnesota	1	0	0
 Pope-Minnesota	0	0	0
-Ramsey-Minnesota	101	3	0
+Ramsey-Minnesota	112	3	0
 Red Lake-Minnesota	0	0	0
 Redwood-Minnesota	1	0	0
 Renville-Minnesota	2	0	0
 Rice-Minnesota	4	0	0
 Rock-Minnesota	0	0	0
-Roseau-Minnesota	0	0	0
+Roseau-Minnesota	1	0	0
 St Louis-Minnesota	0	0	0
-Scott-Minnesota	16	1	0
+Scott-Minnesota	17	1	0
 Sherburne-Minnesota	10	0	0
 Sibley-Minnesota	1	0	0
-Stearns-Minnesota	6	0	0
+Stearns-Minnesota	7	0	0
 Steele-Minnesota	8	0	0
 Stevens-Minnesota	0	0	0
 Swift-Minnesota	1	0	0
@@ -1391,27 +1391,27 @@ Traverse-Minnesota	2	0	0
 Wabasha-Minnesota	6	0	0
 Wadena-Minnesota	0	0	0
 Waseca-Minnesota	3	0	0
-Washington-Minnesota	68	1	0
+Washington-Minnesota	70	2	0
 Watonwan-Minnesota	4	0	0
-Wilkin-Minnesota	2	0	0
-Winona-Minnesota	16	3	0
+Wilkin-Minnesota	2	1	0
+Winona-Minnesota	19	4	0
 Wright-Minnesota	12	0	0
-Yellow Medicine-Minnesota	1	0	0
-Adams-Mississippi	24	0	0
+Yellow Medicine-Minnesota	2	0	0
+Adams-Mississippi	25	0	0
 Alcorn-Mississippi	6	0	0
 Amite-Mississippi	7	1	0
 Attala-Mississippi	15	0	0
 Benton-Mississippi	5	0	0
 Bolivar-Mississippi	54	2	0
-Calhoun-Mississippi	10	0	0
+Calhoun-Mississippi	13	0	0
 Carroll-Mississippi	7	0	0
-Chickasaw-Mississippi	15	2	0
+Chickasaw-Mississippi	17	2	0
 Choctaw-Mississippi	9	1	0
 Claiborne-Mississippi	3	0	0
-Clarke-Mississippi	10	0	0
-Clay-Mississippi	10	0	0
-Coahoma-Mississippi	30	1	0
-Copiah-Mississippi	17	0	0
+Clarke-Mississippi	10	1	0
+Clay-Mississippi	11	0	0
+Coahoma-Mississippi	32	1	0
+Copiah-Mississippi	19	0	0
 Covington-Mississippi	7	0	0
 De Soto-Mississippi	0	0	0
 Forrest-Mississippi	59	1	0
@@ -1419,66 +1419,66 @@ Franklin-Mississippi	5	0	0
 George-Mississippi	5	0	0
 Greene-Mississippi	1	0	0
 Grenada-Mississippi	8	0	0
-Hancock-Mississippi	31	2	0
-Harrison-Mississippi	89	3	0
-Hinds-Mississippi	169	0	0
-Holmes-Mississippi	25	3	0
-Humphreys-Mississippi	5	1	0
+Hancock-Mississippi	32	2	0
+Harrison-Mississippi	88	3	0
+Hinds-Mississippi	178	1	0
+Holmes-Mississippi	27	3	0
+Humphreys-Mississippi	6	1	0
 Issaquena-Mississippi	0	0	0
 Itawamba-Mississippi	5	0	0
-Jackson-Mississippi	108	5	0
+Jackson-Mississippi	111	5	0
 Jasper-Mississippi	4	0	0
-Jefferson-Mississippi	3	0	0
+Jefferson-Mississippi	4	0	0
 Jefferson Davis-Mississippi	0	0	0
-Jones-Mississippi	14	0	0
-Kemper-Mississippi	10	0	0
-Lafayette-Mississippi	25	1	0
-Lamar-Mississippi	18	1	0
-Lauderdale-Mississippi	78	3	0
-Lawrence-Mississippi	5	0	0
+Jones-Mississippi	15	0	0
+Kemper-Mississippi	11	0	0
+Lafayette-Mississippi	26	1	0
+Lamar-Mississippi	19	1	0
+Lauderdale-Mississippi	84	5	0
+Lawrence-Mississippi	6	0	0
 Leake-Mississippi	15	0	0
-Lee-Mississippi	38	2	0
-Leflore-Mississippi	26	5	0
-Lincoln-Mississippi	21	1	0
-Lowndes-Mississippi	16	0	0
-Madison-Mississippi	82	2	0
-Marion-Mississippi	13	0	0
+Lee-Mississippi	40	2	0
+Leflore-Mississippi	28	4	0
+Lincoln-Mississippi	26	1	0
+Lowndes-Mississippi	17	0	0
+Madison-Mississippi	83	2	0
+Marion-Mississippi	14	0	0
 Marshall-Mississippi	24	1	0
-Monroe-Mississippi	18	1	0
+Monroe-Mississippi	19	1	0
 Montgomery-Mississippi	12	1	0
-Neshoba-Mississippi	12	0	0
+Neshoba-Mississippi	13	0	0
 Newton-Mississippi	7	0	0
 Noxubee-Mississippi	5	0	0
-Oktibbeha-Mississippi	29	1	0
+Oktibbeha-Mississippi	30	1	0
 Panola-Mississippi	19	1	0
-Pearl River-Mississippi	56	3	0
+Pearl River-Mississippi	60	3	0
 Perry-Mississippi	14	1	0
-Pike-Mississippi	31	0	0
-Pontotoc-Mississippi	12	1	0
+Pike-Mississippi	33	1	0
+Pontotoc-Mississippi	13	1	0
 Prentiss-Mississippi	10	0	0
-Quitman-Mississippi	9	0	0
-Rankin-Mississippi	78	1	0
-Scott-Mississippi	32	0	0
+Quitman-Mississippi	12	0	0
+Rankin-Mississippi	79	2	0
+Scott-Mississippi	34	0	0
 Sharkey-Mississippi	3	0	0
-Simpson-Mississippi	7	0	0
-Smith-Mississippi	11	0	0
-Stone-Mississippi	3	0	0
-Sunflower-Mississippi	25	1	0
+Simpson-Mississippi	6	0	0
+Smith-Mississippi	15	0	0
+Stone-Mississippi	4	0	0
+Sunflower-Mississippi	27	1	0
 Tallahatchie-Mississippi	3	0	0
 Tate-Mississippi	18	0	0
-Tippah-Mississippi	36	3	0
+Tippah-Mississippi	37	4	0
 Tishomingo-Mississippi	1	0	0
-Tunica-Mississippi	17	2	0
+Tunica-Mississippi	17	1	0
 Union-Mississippi	6	0	0
-Walthall-Mississippi	14	0	0
-Warren-Mississippi	7	0	0
-Washington-Mississippi	40	0	0
+Walthall-Mississippi	15	0	0
+Warren-Mississippi	9	0	0
+Washington-Mississippi	41	2	0
 Wayne-Mississippi	5	0	0
-Webster-Mississippi	12	1	0
-Wilkinson-Mississippi	32	3	0
-Winston-Mississippi	17	0	0
+Webster-Mississippi	13	1	0
+Wilkinson-Mississippi	33	3	0
+Winston-Mississippi	16	0	0
 Yalobusha-Mississippi	11	0	0
-Yazoo-Mississippi	32	1	0
+Yazoo-Mississippi	38	1	0
 Adair-Missouri	11	0	0
 Andrew-Missouri	0	0	0
 Atchison-Missouri	1	0	0
@@ -1494,7 +1494,7 @@ Butler-Missouri	5	0	0
 Caldwell-Missouri	1	0	0
 Callaway-Missouri	19	1	0
 Camden-Missouri	24	1	0
-Cape Girardeau-Missouri	20	0	0
+Cape Girardeau-Missouri	20	1	0
 Carroll-Missouri	0	0	0
 Carter-Missouri	3	1	0
 Cass-Missouri	25	1	0
@@ -1513,7 +1513,7 @@ Daviess-Missouri	0	0	0
 De Kalb-Missouri	0	0	0
 Dent-Missouri	0	0	0
 Douglas-Missouri	0	0	0
-Dunklin-Missouri	8	0	0
+Dunklin-Missouri	9	0	0
 Franklin-Missouri	35	3	0
 Gasconade-Missouri	2	0	0
 Gentry-Missouri	1	0	0
@@ -1528,14 +1528,14 @@ Howell-Missouri	4	0	0
 Iron-Missouri	0	0	0
 Jackson-Missouri	162	4	0
 Jasper-Missouri	15	0	0
-Jefferson-Missouri	92	2	0
+Jefferson-Missouri	93	2	0
 Johnson-Missouri	33	0	0
 Knox-Missouri	0	0	0
 Laclede-Missouri	0	0	0
 Lafayette-Missouri	28	1	0
 Lawrence-Missouri	0	0	0
 Lewis-Missouri	0	0	0
-Lincoln-Missouri	24	0	0
+Lincoln-Missouri	24	1	0
 Linn-Missouri	3	0	0
 Livingston-Missouri	1	0	0
 McDonald-Missouri	3	0	0
@@ -1557,11 +1557,11 @@ Oregon-Missouri	1	0	0
 Osage-Missouri	4	0	0
 Ozark-Missouri	0	0	0
 Pemiscot-Missouri	3	0	0
-Perry-Missouri	28	0	0
+Perry-Missouri	31	0	0
 Pettis-Missouri	3	0	0
 Phelps-Missouri	1	0	0
 Pike-Missouri	4	0	0
-Platte-Missouri	17	0	0
+Platte-Missouri	18	0	0
 Polk-Missouri	1	0	0
 Pulaski-Missouri	12	1	0
 Putnam-Missouri	0	0	0
@@ -1572,13 +1572,13 @@ Reynolds-Missouri	2	0	0
 Ripley-Missouri	2	0	0
 St Charles-Missouri	0	0	0
 St Clair-Missouri	0	0	0
-Ste. Genevieve-Missouri	6	0	0
+Ste. Genevieve-Missouri	6	1	0
 St Francois-Missouri	0	0	0
 St Louis-Missouri	0	0	0
 Saline-Missouri	5	0	0
 Schuyler-Missouri	0	0	0
 Scotland-Missouri	1	0	0
-Scott-Missouri	10	0	0
+Scott-Missouri	11	0	0
 Shannon-Missouri	0	0	0
 Shelby-Missouri	1	0	0
 Stoddard-Missouri	8	0	0
@@ -1587,7 +1587,7 @@ Sullivan-Missouri	0	0	0
 Taney-Missouri	7	1	0
 Texas-Missouri	0	0	0
 Vernon-Missouri	0	0	0
-Warren-Missouri	11	0	0
+Warren-Missouri	13	0	0
 Washington-Missouri	0	0	0
 Wayne-Missouri	0	0	0
 Webster-Missouri	3	0	0
@@ -1598,7 +1598,7 @@ Beaverhead-Montana	1	0	0
 Big Horn-Montana	0	0	0
 Blaine-Montana	0	0	0
 Broadwater-Montana	4	0	0
-Carbon-Montana	2	0	0
+Carbon-Montana	3	0	0
 Carter-Montana	0	0	0
 Cascade-Montana	11	0	0
 Chouteau-Montana	0	0	0
@@ -1609,34 +1609,34 @@ Deer Lodge-Montana	3	0	0
 Fallon-Montana	0	0	0
 Fergus-Montana	0	0	0
 Flathead-Montana	31	0	0
-Gallatin-Montana	118	0	0
+Gallatin-Montana	120	0	0
 Garfield-Montana	0	0	0
-Glacier-Montana	1	0	0
+Glacier-Montana	2	0	0
 Golden Valley-Montana	0	0	0
 Granite-Montana	0	0	0
 Hill-Montana	1	0	0
 Jefferson-Montana	2	0	0
 Judith Basin-Montana	0	0	0
 Lake-Montana	5	0	0
-Lewis and Clark-Montana	15	0	0
+Lewis and Clark-Montana	16	0	0
 Liberty-Montana	1	0	0
 Lincoln-Montana	7	1	0
 McCone-Montana	0	0	0
-Madison-Montana	9	1	0
+Madison-Montana	8	1	0
 Meagher-Montana	1	0	0
 Mineral-Montana	0	0	0
-Missoula-Montana	24	1	0
+Missoula-Montana	25	1	0
 Musselshell-Montana	1	0	0
-Park-Montana	6	0	0
+Park-Montana	7	0	0
 Petroleum-Montana	0	0	0
 Phillips-Montana	0	0	0
 Pondera-Montana	0	0	0
 Powder River-Montana	0	0	0
 Powell-Montana	0	0	0
 Prairie-Montana	0	0	0
-Ravalli-Montana	2	0	0
-Richland-Montana	0	0	0
-Roosevelt-Montana	1	0	0
+Ravalli-Montana	3	0	0
+Richland-Montana	2	0	0
+Roosevelt-Montana	2	0	0
 Rosebud-Montana	0	0	0
 Sanders-Montana	0	0	0
 Sheridan-Montana	0	0	0
@@ -1644,14 +1644,14 @@ Silver Bow-Montana	11	0	0
 Stillwater-Montana	0	0	0
 Sweet Grass-Montana	0	0	0
 Teton-Montana	0	0	0
-Toole-Montana	15	3	0
+Toole-Montana	17	3	0
 Treasure-Montana	0	0	0
 Valley-Montana	0	0	0
 Wheatland-Montana	0	0	0
 Wibaux-Montana	0	0	0
-Yellowstone-Montana	47	0	0
+Yellowstone-Montana	48	0	0
 Yellowstone Nat Park-Montana	0	0	0
-Adams-Nebraska	15	0	0
+Adams-Nebraska	27	0	0
 Antelope-Nebraska	1	0	0
 Arthur-Nebraska	0	0	0
 Banner-Nebraska	0	0	0
@@ -1660,10 +1660,10 @@ Boone-Nebraska	0	0	0
 Box Butte-Nebraska	0	0	0
 Boyd-Nebraska	0	0	0
 Brown-Nebraska	0	0	0
-Buffalo-Nebraska	23	1	0
+Buffalo-Nebraska	28	1	0
 Burt-Nebraska	0	0	0
 Butler-Nebraska	0	0	0
-Cass-Nebraska	2	0	0
+Cass-Nebraska	3	0	0
 Cedar-Nebraska	0	0	0
 Chase-Nebraska	0	0	0
 Cherry-Nebraska	1	0	0
@@ -1671,14 +1671,14 @@ Cheyenne-Nebraska	1	0	0
 Clay-Nebraska	0	0	0
 Colfax-Nebraska	3	0	0
 Cuming-Nebraska	2	0	0
-Custer-Nebraska	1	0	0
+Custer-Nebraska	3	0	0
 Dakota-Nebraska	0	0	0
 Dawes-Nebraska	0	0	0
 Dawson-Nebraska	1	0	0
 Deuel-Nebraska	0	0	0
 Dixon-Nebraska	0	0	0
 Dodge-Nebraska	7	0	0
-Douglas-Nebraska	159	4	0
+Douglas-Nebraska	181	5	0
 Dundy-Nebraska	0	0	0
 Fillmore-Nebraska	0	0	0
 Franklin-Nebraska	0	0	0
@@ -1690,7 +1690,7 @@ Garfield-Nebraska	0	0	0
 Gosper-Nebraska	1	0	0
 Grant-Nebraska	0	0	0
 Greeley-Nebraska	0	0	0
-Hall-Nebraska	58	1	0
+Hall-Nebraska	69	2	0
 Hamilton-Nebraska	7	0	0
 Harlan-Nebraska	0	0	0
 Hayes-Nebraska	0	0	0
@@ -1699,15 +1699,15 @@ Holt-Nebraska	0	0	0
 Hooker-Nebraska	0	0	0
 Howard-Nebraska	0	0	0
 Jefferson-Nebraska	0	0	0
-Johnson-Nebraska	0	0	0
-Kearney-Nebraska	2	0	0
+Johnson-Nebraska	1	0	0
+Kearney-Nebraska	3	0	0
 Keith-Nebraska	0	0	0
 Keya Paha-Nebraska	0	0	0
 Kimball-Nebraska	9	0	0
 Knox-Nebraska	2	0	0
-Lancaster-Nebraska	34	0	0
-Lincoln-Nebraska	16	1	0
-Logan-Nebraska	1	0	0
+Lancaster-Nebraska	39	0	0
+Lincoln-Nebraska	17	1	0
+Logan-Nebraska	0	0	0
 Loup-Nebraska	0	0	0
 McPherson-Nebraska	0	0	0
 Madison-Nebraska	5	1	0
@@ -1727,9 +1727,9 @@ Red Willow-Nebraska	0	0	0
 Richardson-Nebraska	0	0	0
 Rock-Nebraska	0	0	0
 Saline-Nebraska	0	0	0
-Sarpy-Nebraska	29	0	0
+Sarpy-Nebraska	37	0	0
 Saunders-Nebraska	4	0	0
-Scotts Bluff-Nebraska	6	0	0
+Scotts Bluff-Nebraska	10	0	0
 Seward-Nebraska	1	0	0
 Sheridan-Nebraska	0	0	0
 Sherman-Nebraska	0	0	0
@@ -1743,55 +1743,55 @@ Washington-Nebraska	20	0	0
 Wayne-Nebraska	0	0	0
 Webster-Nebraska	0	0	0
 Wheeler-Nebraska	0	0	0
-York-Nebraska	1	0	0
+York-Nebraska	2	0	0
 Churchill-Nevada	0	0	0
-Clark-Nevada	1734	54	0
-Douglas-Nevada	7	0	0
+Clark-Nevada	1878	65	0
+Douglas-Nevada	8	0	0
 Elko-Nevada	8	1	0
 Esmeralda-Nevada	0	0	0
 Eureka-Nevada	0	0	0
-Humboldt-Nevada	11	0	0
+Humboldt-Nevada	14	0	0
 Lander-Nevada	0	0	0
 Lincoln-Nevada	0	0	0
-Lyon-Nevada	3	0	0
+Lyon-Nevada	4	0	0
 Mineral-Nevada	0	0	0
 Nye-Nevada	7	0	0
 Pershing-Nevada	0	0	0
 Storey-Nevada	0	0	0
-Washoe-Nevada	309	5	0
+Washoe-Nevada	326	6	0
 White Pine-Nevada	1	0	0
-Carson City-Nevada	11	0	0
-Belknap-New Hampshire	18	0	0
+Carson City-Nevada	13	0	0
+Belknap-New Hampshire	21	0	0
 Carroll-New Hampshire	19	0	0
 Cheshire-New Hampshire	13	0	0
 Coos-New Hampshire	1	0	0
 Grafton-New Hampshire	41	0	0
-Hillsborough-New Hampshire	272	2	0
-Merrimack-New Hampshire	52	0	0
-Rockingham-New Hampshire	246	1	0
+Hillsborough-New Hampshire	288	2	0
+Merrimack-New Hampshire	56	0	0
+Rockingham-New Hampshire	255	1	0
 Strafford-New Hampshire	46	0	0
 Sullivan-New Hampshire	6	0	0
-Atlantic-New Jersey	144	4	0
-Bergen-New Jersey	7533	263	0
-Burlington-New Jersey	733	13	0
-Camden-New Jersey	736	12	0
-Cape May-New Jersey	94	2	0
-Cumberland-New Jersey	71	2	0
-Essex-New Jersey	5078	232	0
-Gloucester-New Jersey	311	5	0
-Hudson-New Jersey	4949	103	0
-Hunterdon-New Jersey	234	2	0
-Mercer-New Jersey	837	24	0
-Middlesex-New Jersey	3717	100	0
-Monmouth-New Jersey	2770	71	0
-Morris-New Jersey	2239	87	0
-Ocean-New Jersey	2641	85	0
-Passaic-New Jersey	4104	62	0
-Salem-New Jersey	31	3	0
-Somerset-New Jersey	1033	40	0
-Sussex-New Jersey	331	15	0
-Union-New Jersey	4368	95	0
-Warren-New Jersey	255	7	0
+Atlantic-New Jersey	168	4	0
+Bergen-New Jersey	7874	314	0
+Burlington-New Jersey	801	17	0
+Camden-New Jersey	838	22	0
+Cape May-New Jersey	100	3	0
+Cumberland-New Jersey	80	2	0
+Essex-New Jersey	5598	276	0
+Gloucester-New Jersey	340	7	0
+Hudson-New Jersey	5437	122	0
+Hunterdon-New Jersey	255	2	0
+Mercer-New Jersey	992	28	0
+Middlesex-New Jersey	4156	139	0
+Monmouth-New Jersey	3038	86	0
+Morris-New Jersey	2468	102	0
+Ocean-New Jersey	2856	101	0
+Passaic-New Jersey	4372	71	0
+Salem-New Jersey	36	3	0
+Somerset-New Jersey	1160	46	0
+Sussex-New Jersey	357	21	0
+Union-New Jersey	4831	125	0
+Warren-New Jersey	289	9	0
 Bernalillo-New Mexico	307	8	0
 Catron-New Mexico	1	0	0
 Chaves-New Mexico	15	0	0
@@ -1809,14 +1809,14 @@ Lea-New Mexico	2	0	0
 Lincoln-New Mexico	1	0	0
 Los Alamos-New Mexico	2	0	0
 Luna-New Mexico	0	0	0
-McKinley-New Mexico	78	2	0
+McKinley-New Mexico	87	2	0
 Mora-New Mexico	0	0	0
 Otero-New Mexico	3	0	0
 Quay-New Mexico	0	0	0
 Rio Arriba-New Mexico	6	0	0
 Roosevelt-New Mexico	1	0	0
 Sandoval-New Mexico	128	2	0
-San Juan-New Mexico	156	0	0
+San Juan-New Mexico	173	0	0
 San Miguel-New Mexico	1	0	0
 Santa Fe-New Mexico	66	0	0
 Sierra-New Mexico	0	0	0
@@ -1825,149 +1825,149 @@ Taos-New Mexico	14	0	0
 Torrance-New Mexico	7	0	0
 Union-New Mexico	0	0	0
 Valencia-New Mexico	7	0	0
-Albany-New York	333	8	0
-Allegany-New York	17	1	0
+Albany-New York	342	9	0
+Allegany-New York	21	1	0
 Bronx-New York	0	0	0
-Broome-New York	86	6	0
-Cattaraugus-New York	13	0	0
+Broome-New York	93	6	0
+Cattaraugus-New York	15	0	0
 Cayuga-New York	14	0	0
 Chautauqua-New York	18	2	0
-Chemung-New York	49	0	0
-Chenango-New York	51	0	0
-Clinton-New York	37	0	0
-Columbia-New York	72	4	0
+Chemung-New York	55	1	0
+Chenango-New York	53	0	0
+Clinton-New York	39	0	0
+Columbia-New York	76	4	0
 Cortland-New York	16	0	0
-Delaware-New York	36	1	0
-Dutchess-New York	1249	9	0
-Erie-New York	1234	39	0
+Delaware-New York	37	1	0
+Dutchess-New York	1395	10	0
+Erie-New York	1335	45	0
 Essex-New York	9	0	0
 Franklin-New York	10	0	0
-Fulton-New York	13	0	0
-Genesee-New York	33	1	0
-Greene-New York	24	0	0
+Fulton-New York	14	0	0
+Genesee-New York	47	1	0
+Greene-New York	25	0	0
 Hamilton-New York	2	0	0
-Herkimer-New York	27	3	0
-Jefferson-New York	39	0	0
+Herkimer-New York	29	3	0
+Jefferson-New York	40	0	0
 Kings-New York	0	0	0
 Lewis-New York	6	0	0
-Livingston-New York	24	2	0
-Madison-New York	92	2	0
-Monroe-New York	596	31	0
+Livingston-New York	29	2	0
+Madison-New York	92	3	0
+Monroe-New York	651	34	0
 Montgomery-New York	18	1	0
-Nassau-New York	16610	500	0
+Nassau-New York	18548	500	0
 New York-New York	0	0	0
-Niagara-New York	126	1	0
-Oneida-New York	118	2	0
-Onondaga-New York	397	6	0
-Ontario-New York	33	0	0
-Orange-New York	3829	93	0
-Orleans-New York	15	0	0
+Niagara-New York	155	1	0
+Oneida-New York	125	2	0
+Onondaga-New York	422	6	0
+Ontario-New York	39	0	0
+Orange-New York	4075	107	0
+Orleans-New York	16	0	0
 Oswego-New York	34	2	0
-Otsego-New York	34	1	0
-Putnam-New York	402	7	0
+Otsego-New York	38	1	0
+Putnam-New York	427	7	0
 Queens-New York	0	0	0
 Rensselaer-New York	88	3	0
 Richmond-New York	0	0	0
-Rockland-New York	5990	135	0
+Rockland-New York	6413	154	0
 St Lawrence-New York	0	0	0
-Saratoga-New York	155	4	0
-Schenectady-New York	145	7	0
+Saratoga-New York	162	4	0
+Schenectady-New York	149	7	0
 Schoharie-New York	12	0	0
 Schuyler-New York	4	0	0
-Seneca-New York	10	0	0
-Steuben-New York	75	5	0
-Suffolk-New York	15561	263	0
-Sullivan-New York	270	7	0
-Tioga-New York	8	0	0
-Tompkins-New York	103	0	0
-Ulster-New York	398	5	0
-Warren-New York	31	0	0
-Washington-New York	19	1	0
-Wayne-New York	35	0	0
-Westchester-New York	14294	211	0
-Wyoming-New York	23	1	0
+Seneca-New York	12	0	0
+Steuben-New York	87	6	0
+Suffolk-New York	17008	323	0
+Sullivan-New York	296	7	0
+Tioga-New York	15	0	0
+Tompkins-New York	105	0	0
+Ulster-New York	462	7	0
+Warren-New York	33	0	0
+Washington-New York	20	1	0
+Wayne-New York	39	0	0
+Westchester-New York	15887	283	0
+Wyoming-New York	27	1	0
 Yates-New York	1	0	0
-Alamance-North Carolina	24	0	0
+Alamance-North Carolina	30	0	0
 Alexander-North Carolina	2	0	0
 Alleghany-North Carolina	2	0	0
-Anson-North Carolina	5	0	0
+Anson-North Carolina	6	0	0
 Ashe-North Carolina	2	0	0
 Avery-North Carolina	0	0	0
 Beaufort-North Carolina	10	0	0
-Bertie-North Carolina	9	1	0
+Bertie-North Carolina	10	1	0
 Bladen-North Carolina	1	0	0
 Brunswick-North Carolina	26	1	0
-Buncombe-North Carolina	33	1	0
-Burke-North Carolina	39	2	0
-Cabarrus-North Carolina	81	1	0
+Buncombe-North Carolina	37	1	0
+Burke-North Carolina	34	2	0
+Cabarrus-North Carolina	88	1	0
 Caldwell-North Carolina	11	0	0
 Camden-North Carolina	0	0	0
-Carteret-North Carolina	25	1	0
+Carteret-North Carolina	19	1	0
 Caswell-North Carolina	2	0	0
-Catawba-North Carolina	27	1	0
-Chatham-North Carolina	21	0	0
+Catawba-North Carolina	28	1	0
+Chatham-North Carolina	24	0	0
 Cherokee-North Carolina	12	1	0
 Chowan-North Carolina	1	0	0
 Clay-North Carolina	3	0	0
-Cleveland-North Carolina	23	0	0
-Columbus-North Carolina	13	1	0
-Craven-North Carolina	18	0	0
-Cumberland-North Carolina	62	0	0
+Cleveland-North Carolina	26	0	0
+Columbus-North Carolina	14	1	0
+Craven-North Carolina	19	0	0
+Cumberland-North Carolina	66	1	0
 Currituck-North Carolina	3	0	0
-Dare-North Carolina	6	0	0
-Davidson-North Carolina	70	1	0
+Dare-North Carolina	10	0	0
+Davidson-North Carolina	73	1	0
 Davie-North Carolina	20	2	0
-Duplin-North Carolina	7	0	0
-Durham-North Carolina	219	1	0
-Edgecombe-North Carolina	11	0	0
-Forsyth-North Carolina	106	2	0
-Franklin-North Carolina	17	0	0
-Gaston-North Carolina	58	2	0
-Gates-North Carolina	2	0	0
+Duplin-North Carolina	8	0	0
+Durham-North Carolina	236	1	0
+Edgecombe-North Carolina	12	0	0
+Forsyth-North Carolina	108	2	0
+Franklin-North Carolina	23	1	0
+Gaston-North Carolina	62	3	0
+Gates-North Carolina	3	0	0
 Graham-North Carolina	0	0	0
-Granville-North Carolina	76	0	0
+Granville-North Carolina	83	0	0
 Greene-North Carolina	10	0	0
-Guilford-North Carolina	119	5	0
-Halifax-North Carolina	13	0	0
-Harnett-North Carolina	32	2	0
+Guilford-North Carolina	122	8	0
+Halifax-North Carolina	14	0	0
+Harnett-North Carolina	34	2	0
 Haywood-North Carolina	3	0	0
 Henderson-North Carolina	51	3	0
 Hertford-North Carolina	5	1	0
-Hoke-North Carolina	12	0	0
+Hoke-North Carolina	13	0	0
 Hyde-North Carolina	0	0	0
-Iredell-North Carolina	54	0	0
+Iredell-North Carolina	57	1	0
 Jackson-North Carolina	2	0	0
-Johnston-North Carolina	47	3	0
-Jones-North Carolina	2	0	0
-Lee-North Carolina	4	0	0
-Lenoir-North Carolina	10	0	0
+Johnston-North Carolina	51	4	0
+Jones-North Carolina	3	0	0
+Lee-North Carolina	5	0	0
+Lenoir-North Carolina	11	0	0
 Lincoln-North Carolina	11	0	0
-McDowell-North Carolina	10	0	0
-Macon-North Carolina	1	0	0
+McDowell-North Carolina	13	0	0
+Macon-North Carolina	1	1	0
 Madison-North Carolina	0	0	0
 Martin-North Carolina	4	0	0
-Mecklenburg-North Carolina	810	7	0
+Mecklenburg-North Carolina	848	10	0
 Mitchell-North Carolina	3	0	0
-Montgomery-North Carolina	11	1	0
-Moore-North Carolina	20	2	0
-Nash-North Carolina	24	0	0
-New Hanover-North Carolina	51	0	0
-Northampton-North Carolina	53	1	0
-Onslow-North Carolina	23	1	0
-Orange-North Carolina	73	0	0
+Montgomery-North Carolina	13	1	0
+Moore-North Carolina	37	2	0
+Nash-North Carolina	25	1	0
+New Hanover-North Carolina	53	0	0
+Northampton-North Carolina	54	1	0
+Onslow-North Carolina	24	1	0
+Orange-North Carolina	81	0	0
 Pamlico-North Carolina	3	0	0
-Pasquotank-North Carolina	9	0	0
+Pasquotank-North Carolina	10	0	0
 Pender-North Carolina	2	0	0
 Perquimans-North Carolina	2	0	0
 Person-North Carolina	7	0	0
-Pitt-North Carolina	44	1	0
+Pitt-North Carolina	51	1	0
 Polk-North Carolina	8	0	0
-Randolph-North Carolina	35	1	0
-Richmond-North Carolina	1	0	0
-Robeson-North Carolina	6	0	0
+Randolph-North Carolina	37	2	0
+Richmond-North Carolina	2	0	0
+Robeson-North Carolina	7	0	0
 Rockingham-North Carolina	8	1	0
-Rowan-North Carolina	62	1	0
-Rutherford-North Carolina	21	0	0
+Rowan-North Carolina	64	2	0
+Rutherford-North Carolina	25	0	0
 Sampson-North Carolina	5	0	0
 Scotland-North Carolina	3	0	0
 Stanly-North Carolina	8	0	0
@@ -1976,15 +1976,15 @@ Surry-North Carolina	10	0	0
 Swain-North Carolina	1	0	0
 Transylvania-North Carolina	6	0	0
 Tyrrell-North Carolina	0	0	0
-Union-North Carolina	83	0	0
-Vance-North Carolina	12	0	0
-Wake-North Carolina	351	0	0
+Union-North Carolina	87	0	0
+Vance-North Carolina	14	0	0
+Wake-North Carolina	365	0	0
 Warren-North Carolina	3	0	0
-Washington-North Carolina	7	0	0
+Washington-North Carolina	8	0	0
 Watauga-North Carolina	8	0	0
-Wayne-North Carolina	32	0	0
+Wayne-North Carolina	34	0	0
 Wilkes-North Carolina	4	1	0
-Wilson-North Carolina	36	2	0
+Wilson-North Carolina	38	2	0
 Yadkin-North Carolina	9	0	0
 Yancey-North Carolina	0	0	0
 Adams-North Dakota	0	0	0
@@ -1994,8 +1994,8 @@ Billings-North Dakota	0	0	0
 Bottineau-North Dakota	0	0	0
 Bowman-North Dakota	1	0	0
 Burke-North Dakota	2	0	0
-Burleigh-North Dakota	39	0	0
-Cass-North Dakota	70	1	0
+Burleigh-North Dakota	42	0	0
+Cass-North Dakota	77	1	0
 Cavalier-North Dakota	0	0	0
 Dickey-North Dakota	0	0	0
 Divide-North Dakota	1	0	0
@@ -2031,9 +2031,9 @@ Sargent-North Dakota	0	0	0
 Sheridan-North Dakota	0	0	0
 Sioux-North Dakota	1	0	0
 Slope-North Dakota	3	0	0
-Stark-North Dakota	25	0	0
+Stark-North Dakota	28	0	0
 Steele-North Dakota	0	0	0
-Stutsman-North Dakota	0	0	0
+Stutsman-North Dakota	1	0	0
 Towner-North Dakota	0	0	0
 Traill-North Dakota	0	0	0
 Walsh-North Dakota	3	0	0
@@ -2041,94 +2041,94 @@ Ward-North Dakota	16	0	0
 Wells-North Dakota	0	0	0
 Williams-North Dakota	5	0	0
 Adams-Ohio	2	0	0
-Allen-Ohio	22	1	0
+Allen-Ohio	23	1	0
 Ashland-Ohio	3	0	0
-Ashtabula-Ohio	18	0	0
+Ashtabula-Ohio	20	0	0
 Athens-Ohio	3	1	0
 Auglaize-Ohio	8	0	0
-Belmont-Ohio	25	1	0
+Belmont-Ohio	30	1	0
 Brown-Ohio	4	1	0
-Butler-Ohio	92	2	0
+Butler-Ohio	102	2	0
 Carroll-Ohio	9	0	0
 Champaign-Ohio	5	0	0
-Clark-Ohio	11	0	0
-Clermont-Ohio	22	1	0
-Clinton-Ohio	9	0	0
-Columbiana-Ohio	59	5	0
+Clark-Ohio	13	0	0
+Clermont-Ohio	27	1	0
+Clinton-Ohio	11	1	0
+Columbiana-Ohio	71	6	0
 Coshocton-Ohio	10	0	0
 Crawford-Ohio	9	0	0
-Cuyahoga-Ohio	911	19	0
-Darke-Ohio	34	6	0
-Defiance-Ohio	9	0	0
-Delaware-Ohio	77	1	0
+Cuyahoga-Ohio	960	23	0
+Darke-Ohio	38	7	0
+Defiance-Ohio	10	0	0
+Delaware-Ohio	79	1	0
 Erie-Ohio	10	1	0
-Fairfield-Ohio	59	0	0
-Fayette-Ohio	2	0	0
-Franklin-Ohio	703	12	0
+Fairfield-Ohio	65	0	0
+Fayette-Ohio	4	0	0
+Franklin-Ohio	761	12	0
 Fulton-Ohio	5	0	0
 Gallia-Ohio	4	1	0
-Geauga-Ohio	41	0	0
-Greene-Ohio	20	1	0
-Guernsey-Ohio	1	0	0
-Hamilton-Ohio	411	12	0
-Hancock-Ohio	15	0	0
+Geauga-Ohio	44	1	0
+Greene-Ohio	21	1	0
+Guernsey-Ohio	2	0	0
+Hamilton-Ohio	437	13	0
+Hancock-Ohio	17	0	0
 Hardin-Ohio	2	0	0
 Harrison-Ohio	0	0	0
-Henry-Ohio	0	0	0
+Henry-Ohio	1	0	0
 Highland-Ohio	6	0	0
 Hocking-Ohio	0	0	0
-Holmes-Ohio	2	0	0
-Huron-Ohio	10	1	0
-Jackson-Ohio	0	0	0
-Jefferson-Ohio	15	0	0
+Holmes-Ohio	3	0	0
+Huron-Ohio	9	1	0
+Jackson-Ohio	2	0	0
+Jefferson-Ohio	18	0	0
 Knox-Ohio	7	1	0
-Lake-Ohio	92	4	0
-Lawrence-Ohio	9	0	0
-Licking-Ohio	61	3	0
+Lake-Ohio	99	4	0
+Lawrence-Ohio	13	0	0
+Licking-Ohio	64	3	0
 Logan-Ohio	5	0	0
-Lorain-Ohio	116	3	0
-Lucas-Ohio	347	16	0
-Madison-Ohio	18	2	0
-Mahoning-Ohio	300	19	0
-Marion-Ohio	28	0	0
-Medina-Ohio	88	3	0
+Lorain-Ohio	136	4	0
+Lucas-Ohio	371	16	0
+Madison-Ohio	20	2	0
+Mahoning-Ohio	305	28	0
+Marion-Ohio	32	0	0
+Medina-Ohio	94	4	0
 Meigs-Ohio	1	0	0
-Mercer-Ohio	8	1	0
-Miami-Ohio	101	12	0
+Mercer-Ohio	11	1	0
+Miami-Ohio	107	14	0
 Monroe-Ohio	2	0	0
-Montgomery-Ohio	132	2	0
-Morgan-Ohio	1	0	0
+Montgomery-Ohio	147	2	0
+Morgan-Ohio	2	0	0
 Morrow-Ohio	6	0	0
 Muskingum-Ohio	6	0	0
 Noble-Ohio	0	0	0
-Ottawa-Ohio	5	0	0
-Paulding-Ohio	1	0	0
-Perry-Ohio	4	0	0
-Pickaway-Ohio	31	0	0
+Ottawa-Ohio	6	0	0
+Paulding-Ohio	2	0	0
+Perry-Ohio	6	0	0
+Pickaway-Ohio	35	0	0
 Pike-Ohio	1	0	0
-Portage-Ohio	101	7	0
-Preble-Ohio	7	0	0
+Portage-Ohio	108	8	0
+Preble-Ohio	8	0	0
 Putnam-Ohio	0	0	0
-Richland-Ohio	20	0	0
-Ross-Ohio	9	0	0
-Sandusky-Ohio	5	0	0
+Richland-Ohio	25	0	0
+Ross-Ohio	10	0	0
+Sandusky-Ohio	5	1	0
 Scioto-Ohio	1	0	0
 Seneca-Ohio	6	1	0
-Shelby-Ohio	18	0	0
-Stark-Ohio	110	7	0
-Summit-Ohio	199	12	0
-Trumbull-Ohio	110	8	0
-Tuscarawas-Ohio	23	0	0
+Shelby-Ohio	19	0	0
+Stark-Ohio	114	7	0
+Summit-Ohio	211	12	0
+Trumbull-Ohio	126	8	0
+Tuscarawas-Ohio	26	0	0
 Union-Ohio	8	0	0
 Van Wert-Ohio	2	0	0
 Vinton-Ohio	0	0	0
-Warren-Ohio	45	0	0
-Washington-Ohio	27	0	0
-Wayne-Ohio	29	0	0
+Warren-Ohio	46	0	0
+Washington-Ohio	30	0	0
+Wayne-Ohio	30	0	0
 Williams-Ohio	1	0	0
-Wood-Ohio	38	0	0
+Wood-Ohio	41	2	0
 Wyandot-Ohio	5	0	0
-Adair-Oklahoma	25	1	0
+Adair-Oklahoma	25	2	0
 Alfalfa-Oklahoma	0	0	0
 Atoka-Oklahoma	1	0	0
 Beaver-Oklahoma	1	0	0
@@ -2141,21 +2141,21 @@ Carter-Oklahoma	1	0	0
 Cherokee-Oklahoma	16	1	0
 Choctaw-Oklahoma	2	0	0
 Cimarron-Oklahoma	0	0	0
-Cleveland-Oklahoma	203	12	0
+Cleveland-Oklahoma	212	14	0
 Coal-Oklahoma	0	0	0
-Comanche-Oklahoma	42	0	0
+Comanche-Oklahoma	44	0	0
 Cotton-Oklahoma	4	0	0
-Craig-Oklahoma	4	0	0
+Craig-Oklahoma	5	0	0
 Creek-Oklahoma	47	2	0
 Custer-Oklahoma	5	0	0
 Delaware-Oklahoma	13	0	0
 Dewey-Oklahoma	1	0	0
 Ellis-Oklahoma	0	0	0
 Garfield-Oklahoma	5	0	0
-Garvin-Oklahoma	12	0	0
+Garvin-Oklahoma	11	0	0
 Grady-Oklahoma	9	0	0
 Grant-Oklahoma	1	0	0
-Greer-Oklahoma	31	3	0
+Greer-Oklahoma	32	4	0
 Harmon-Oklahoma	0	0	0
 Harper-Oklahoma	0	0	0
 Haskell-Oklahoma	0	0	0
@@ -2163,7 +2163,7 @@ Hughes-Oklahoma	0	0	0
 Jackson-Oklahoma	6	0	0
 Jefferson-Oklahoma	1	0	0
 Johnston-Oklahoma	0	0	0
-Kay-Oklahoma	33	2	0
+Kay-Oklahoma	33	3	0
 Kingfisher-Oklahoma	3	0	0
 Kiowa-Oklahoma	1	0	0
 Latimer-Oklahoma	4	1	0
@@ -2171,9 +2171,9 @@ Le Flore-Oklahoma	1	0	0
 Lincoln-Oklahoma	10	0	0
 Logan-Oklahoma	6	0	0
 Love-Oklahoma	2	0	0
-McClain-Oklahoma	16	0	0
+McClain-Oklahoma	15	0	0
 McCurtain-Oklahoma	2	0	0
-McIntosh-Oklahoma	2	0	0
+McIntosh-Oklahoma	1	0	0
 Major-Oklahoma	1	0	0
 Marshall-Oklahoma	1	0	0
 Mayes-Oklahoma	12	2	0
@@ -2182,38 +2182,38 @@ Muskogee-Oklahoma	21	2	0
 Noble-Oklahoma	6	0	0
 Nowata-Oklahoma	10	0	0
 Okfuskee-Oklahoma	0	0	0
-Oklahoma-Oklahoma	303	11	0
+Oklahoma-Oklahoma	317	15	0
 Okmulgee-Oklahoma	11	0	0
-Osage-Oklahoma	34	5	0
-Ottawa-Oklahoma	14	0	0
+Osage-Oklahoma	33	5	0
+Ottawa-Oklahoma	15	0	0
 Pawnee-Oklahoma	23	1	0
 Payne-Oklahoma	24	0	0
 Pittsburg-Oklahoma	7	0	0
 Pontotoc-Oklahoma	9	0	0
-Pottawatomie-Oklahoma	19	1	0
+Pottawatomie-Oklahoma	20	1	0
 Pushmataha-Oklahoma	0	0	0
 Roger Mills-Oklahoma	0	0	0
-Rogers-Oklahoma	17	0	0
-Seminole-Oklahoma	3	1	0
+Rogers-Oklahoma	19	0	0
+Seminole-Oklahoma	4	1	0
 Sequoyah-Oklahoma	10	1	0
 Stephens-Oklahoma	11	1	0
 Texas-Oklahoma	3	0	0
 Tillman-Oklahoma	1	0	0
-Tulsa-Oklahoma	273	14	0
-Wagoner-Oklahoma	55	3	0
-Washington-Oklahoma	43	2	0
+Tulsa-Oklahoma	293	16	0
+Wagoner-Oklahoma	57	4	0
+Washington-Oklahoma	45	2	0
 Washita-Oklahoma	0	0	0
 Woods-Oklahoma	0	0	0
 Woodward-Oklahoma	1	0	0
 Baker-Oregon	0	0	0
 Benton-Oregon	21	1	0
-Clackamas-Oregon	90	3	0
-Clatsop-Oregon	4	0	0
+Clackamas-Oregon	97	3	0
+Clatsop-Oregon	5	0	0
 Columbia-Oregon	8	0	0
 Coos-Oregon	0	0	0
 Crook-Oregon	1	0	0
 Curry-Oregon	2	0	0
-Deschutes-Oregon	40	0	0
+Deschutes-Oregon	44	0	0
 Douglas-Oregon	12	0	0
 Gilliam-Oregon	0	0	0
 Grant-Oregon	1	0	0
@@ -2222,97 +2222,97 @@ Hood River-Oregon	2	0	0
 Jackson-Oregon	39	0	0
 Jefferson-Oregon	0	0	0
 Josephine-Oregon	16	0	0
-Klamath-Oregon	18	0	0
+Klamath-Oregon	19	0	0
 Lake-Oregon	0	0	0
-Lane-Oregon	29	1	0
+Lane-Oregon	30	1	0
 Lincoln-Oregon	4	0	0
-Linn-Oregon	44	2	0
+Linn-Oregon	45	2	0
 Malheur-Oregon	2	0	0
-Marion-Oregon	209	6	0
+Marion-Oregon	215	9	0
 Morrow-Oregon	2	0	0
-Multnomah-Oregon	243	7	0
-Polk-Oregon	26	1	0
+Multnomah-Oregon	258	7	0
+Polk-Oregon	28	1	0
 Sherman-Oregon	1	0	0
 Tillamook-Oregon	3	0	0
 Umatilla-Oregon	8	0	0
 Union-Oregon	3	0	0
 Wallowa-Oregon	1	0	0
 Wasco-Oregon	7	0	0
-Washington-Oregon	271	5	0
+Washington-Oregon	282	6	0
 Wheeler-Oregon	0	0	0
 Yamhill-Oregon	25	3	0
-Adams-Pennsylvania	28	0	0
-Allegheny-Pennsylvania	689	6	0
-Armstrong-Pennsylvania	18	0	0
-Beaver-Pennsylvania	116	9	0
+Adams-Pennsylvania	33	0	0
+Allegheny-Pennsylvania	720	10	0
+Armstrong-Pennsylvania	19	0	0
+Beaver-Pennsylvania	128	13	0
 Bedford-Pennsylvania	4	0	0
-Berks-Pennsylvania	369	4	0
+Berks-Pennsylvania	416	12	0
 Blair-Pennsylvania	6	0	0
-Bradford-Pennsylvania	14	0	0
-Bucks-Pennsylvania	713	21	0
-Butler-Pennsylvania	107	2	0
-Cambria-Pennsylvania	7	1	0
+Bradford-Pennsylvania	15	0	0
+Bucks-Pennsylvania	816	24	0
+Butler-Pennsylvania	113	2	0
+Cambria-Pennsylvania	9	1	0
 Cameron-Pennsylvania	1	0	0
-Carbon-Pennsylvania	67	1	0
-Centre-Pennsylvania	55	0	0
-Chester-Pennsylvania	335	6	0
-Clarion-Pennsylvania	9	0	0
+Carbon-Pennsylvania	76	1	0
+Centre-Pennsylvania	57	0	0
+Chester-Pennsylvania	373	6	0
+Clarion-Pennsylvania	8	0	0
 Clearfield-Pennsylvania	7	0	0
 Clinton-Pennsylvania	3	0	0
-Columbia-Pennsylvania	42	1	0
+Columbia-Pennsylvania	54	1	0
 Crawford-Pennsylvania	8	0	0
-Cumberland-Pennsylvania	77	2	0
-Dauphin-Pennsylvania	155	1	0
-Delaware-Pennsylvania	898	20	0
+Cumberland-Pennsylvania	84	2	0
+Dauphin-Pennsylvania	168	2	0
+Delaware-Pennsylvania	1034	23	0
 Elk-Pennsylvania	2	0	0
 Erie-Pennsylvania	29	0	0
-Fayette-Pennsylvania	32	1	0
+Fayette-Pennsylvania	35	1	0
 Forest-Pennsylvania	5	0	0
-Franklin-Pennsylvania	39	0	0
+Franklin-Pennsylvania	43	0	0
 Fulton-Pennsylvania	1	0	0
-Greene-Pennsylvania	15	0	0
-Huntingdon-Pennsylvania	5	0	0
+Greene-Pennsylvania	17	0	0
+Huntingdon-Pennsylvania	6	0	0
 Indiana-Pennsylvania	21	0	0
 Jefferson-Pennsylvania	1	0	0
-Juniata-Pennsylvania	14	0	0
-Lackawanna-Pennsylvania	235	8	0
-Lancaster-Pennsylvania	490	14	0
-Lawrence-Pennsylvania	29	2	0
-Lebanon-Pennsylvania	145	0	0
-Lehigh-Pennsylvania	1146	10	0
-Luzerne-Pennsylvania	982	8	0
-Lycoming-Pennsylvania	12	0	0
+Juniata-Pennsylvania	18	0	0
+Lackawanna-Pennsylvania	266	12	0
+Lancaster-Pennsylvania	561	14	0
+Lawrence-Pennsylvania	32	2	0
+Lebanon-Pennsylvania	169	0	0
+Lehigh-Pennsylvania	1319	12	0
+Luzerne-Pennsylvania	1134	11	0
+Lycoming-Pennsylvania	15	0	0
 McKean-Pennsylvania	1	0	0
-Mercer-Pennsylvania	26	0	0
-Mifflin-Pennsylvania	6	0	0
-Monroe-Pennsylvania	610	12	0
-Montgomery-Pennsylvania	1359	30	0
+Mercer-Pennsylvania	27	0	0
+Mifflin-Pennsylvania	10	0	0
+Monroe-Pennsylvania	671	17	0
+Montgomery-Pennsylvania	1521	37	0
 Montour-Pennsylvania	37	0	0
-Northampton-Pennsylvania	774	14	0
+Northampton-Pennsylvania	857	17	0
 Northumberland-Pennsylvania	22	0	0
-Perry-Pennsylvania	9	1	0
-Philadelphia-Pennsylvania	4272	65	0
-Pike-Pennsylvania	136	5	0
+Perry-Pennsylvania	13	1	0
+Philadelphia-Pennsylvania	4777	87	0
+Pike-Pennsylvania	148	6	0
 Potter-Pennsylvania	3	0	0
-Schuylkill-Pennsylvania	119	0	0
+Schuylkill-Pennsylvania	136	0	0
 Snyder-Pennsylvania	9	1	0
 Somerset-Pennsylvania	7	0	0
 Sullivan-Pennsylvania	1	0	0
-Susquehanna-Pennsylvania	11	0	0
+Susquehanna-Pennsylvania	14	0	0
 Tioga-Pennsylvania	10	0	0
-Union-Pennsylvania	7	0	0
+Union-Pennsylvania	8	0	0
 Venango-Pennsylvania	5	0	0
 Warren-Pennsylvania	1	0	0
-Washington-Pennsylvania	57	0	0
-Wayne-Pennsylvania	40	0	0
-Westmoreland-Pennsylvania	177	0	0
+Washington-Pennsylvania	59	0	0
+Wayne-Pennsylvania	47	1	0
+Westmoreland-Pennsylvania	183	0	0
 Wyoming-Pennsylvania	5	0	0
-York-Pennsylvania	218	2	0
-Bristol-Rhode Island	27	0	0
-Kent-Rhode Island	105	0	0
-Newport-Rhode Island	52	0	0
-Providence-Rhode Island	622	3	0
-Washington-Rhode Island	70	0	0
+York-Pennsylvania	233	2	0
+Bristol-Rhode Island	31	0	0
+Kent-Rhode Island	137	0	0
+Newport-Rhode Island	56	0	0
+Providence-Rhode Island	832	3	0
+Washington-Rhode Island	120	0	0
 Abbeville-South Carolina	5	0	0
 Aiken-South Carolina	28	1	0
 Allendale-South Carolina	2	0	0
@@ -2362,7 +2362,7 @@ York-South Carolina	108	2	0
 Aurora-South Dakota	1	0	0
 Beadle-South Dakota	21	2	0
 Bennett-South Dakota	0	0	0
-Bon Homme-South Dakota	2	0	0
+Bon Homme-South Dakota	3	0	0
 Brookings-South Dakota	6	0	0
 Brown-South Dakota	13	0	0
 Brule-South Dakota	0	0	0
@@ -2397,9 +2397,9 @@ Jackson-South Dakota	0	0	0
 Jerauld-South Dakota	0	0	0
 Jones-South Dakota	0	0	0
 Kingsbury-South Dakota	0	0	0
-Lake-South Dakota	1	0	0
+Lake-South Dakota	2	0	0
 Lawrence-South Dakota	9	0	0
-Lincoln-South Dakota	27	0	0
+Lincoln-South Dakota	31	0	0
 Lyman-South Dakota	2	0	0
 McCook-South Dakota	2	1	0
 McPherson-South Dakota	0	0	0
@@ -2407,7 +2407,7 @@ Marshall-South Dakota	1	0	0
 Meade-South Dakota	1	0	0
 Mellette-South Dakota	0	0	0
 Miner-South Dakota	0	0	0
-Minnehaha-South Dakota	165	2	0
+Minnehaha-South Dakota	228	2	0
 Moody-South Dakota	0	0	0
 Pennington-South Dakota	6	1	0
 Perkins-South Dakota	0	0	0
@@ -2420,127 +2420,127 @@ Stanley-South Dakota	0	0	0
 Sully-South Dakota	0	0	0
 Todd-South Dakota	1	0	0
 Tripp-South Dakota	0	0	0
-Turner-South Dakota	4	0	0
+Turner-South Dakota	5	0	0
 Union-South Dakota	3	0	0
 Walworth-South Dakota	0	0	0
-Yankton-South Dakota	15	0	0
+Yankton-South Dakota	17	0	0
 Ziebach-South Dakota	0	0	0
-Anderson-Tennessee	11	0	0
-Bedford-Tennessee	10	0	0
+Anderson-Tennessee	11	1	0
+Bedford-Tennessee	12	0	0
 Benton-Tennessee	4	0	0
 Bledsoe-Tennessee	3	0	0
-Blount-Tennessee	41	2	0
-Bradley-Tennessee	25	0	0
+Blount-Tennessee	42	2	0
+Bradley-Tennessee	28	0	0
 Campbell-Tennessee	6	0	0
 Cannon-Tennessee	7	0	0
 Carroll-Tennessee	8	0	0
 Carter-Tennessee	3	0	0
 Cheatham-Tennessee	13	0	0
-Chester-Tennessee	7	0	0
+Chester-Tennessee	6	0	0
 Claiborne-Tennessee	2	0	0
-Clay-Tennessee	1	0	0
+Clay-Tennessee	2	0	0
 Cocke-Tennessee	2	0	0
 Coffee-Tennessee	7	0	0
 Crockett-Tennessee	0	0	0
-Cumberland-Tennessee	32	0	0
-Davidson-Tennessee	888	9	0
-Decatur-Tennessee	0	0	0
+Cumberland-Tennessee	33	0	0
+Davidson-Tennessee	946	13	0
+Decatur-Tennessee	1	0	0
 De Kalb-Tennessee	0	0	0
-Dickson-Tennessee	27	0	0
-Dyer-Tennessee	10	0	0
-Fayette-Tennessee	21	0	0
+Dickson-Tennessee	26	0	0
+Dyer-Tennessee	11	0	0
+Fayette-Tennessee	22	0	0
 Fentress-Tennessee	2	0	0
-Franklin-Tennessee	14	1	0
+Franklin-Tennessee	17	1	0
 Gibson-Tennessee	13	0	0
 Giles-Tennessee	3	0	0
 Grainger-Tennessee	3	0	0
-Greene-Tennessee	18	1	0
+Greene-Tennessee	20	1	0
 Grundy-Tennessee	16	0	0
 Hamblen-Tennessee	4	0	0
 Hamilton-Tennessee	95	9	0
 Hancock-Tennessee	0	0	0
 Hardeman-Tennessee	6	0	0
 Hardin-Tennessee	2	0	0
-Hawkins-Tennessee	16	1	0
-Haywood-Tennessee	6	0	0
+Hawkins-Tennessee	18	1	0
+Haywood-Tennessee	7	0	0
 Henderson-Tennessee	2	0	0
 Henry-Tennessee	6	0	0
 Hickman-Tennessee	2	0	0
 Houston-Tennessee	2	0	0
 Humphreys-Tennessee	4	0	0
-Jackson-Tennessee	3	0	0
-Jefferson-Tennessee	10	0	0
+Jackson-Tennessee	4	0	0
+Jefferson-Tennessee	12	0	0
 Johnson-Tennessee	2	0	0
-Knox-Tennessee	143	3	0
+Knox-Tennessee	148	4	0
 Lake-Tennessee	0	0	0
-Lauderdale-Tennessee	5	0	0
-Lawrence-Tennessee	6	0	0
+Lauderdale-Tennessee	6	0	0
+Lawrence-Tennessee	10	0	0
 Lewis-Tennessee	2	0	0
-Lincoln-Tennessee	6	0	0
+Lincoln-Tennessee	7	0	0
 Loudon-Tennessee	15	0	0
 McMinn-Tennessee	3	0	0
-McNairy-Tennessee	5	0	0
-Macon-Tennessee	12	1	0
+McNairy-Tennessee	7	0	0
+Macon-Tennessee	16	1	0
 Madison-Tennessee	43	0	0
 Marion-Tennessee	21	1	0
 Marshall-Tennessee	9	0	0
-Maury-Tennessee	26	0	0
-Meigs-Tennessee	2	0	0
+Maury-Tennessee	29	0	0
+Meigs-Tennessee	3	0	0
 Monroe-Tennessee	6	0	0
-Montgomery-Tennessee	65	2	0
+Montgomery-Tennessee	72	2	0
 Moore-Tennessee	0	0	0
 Morgan-Tennessee	5	0	0
-Obion-Tennessee	3	1	0
-Overton-Tennessee	4	0	0
+Obion-Tennessee	4	1	0
+Overton-Tennessee	5	0	0
 Perry-Tennessee	3	0	0
 Pickett-Tennessee	0	0	0
 Polk-Tennessee	3	0	0
-Putnam-Tennessee	57	0	0
+Putnam-Tennessee	81	0	0
 Rhea-Tennessee	0	0	0
 Roane-Tennessee	5	0	0
-Robertson-Tennessee	65	0	0
-Rutherford-Tennessee	178	3	0
-Scott-Tennessee	4	0	0
-Sequatchie-Tennessee	2	0	0
-Sevier-Tennessee	18	0	0
-Shelby-Tennessee	835	15	0
+Robertson-Tennessee	67	0	0
+Rutherford-Tennessee	193	3	0
+Scott-Tennessee	5	0	0
+Sequatchie-Tennessee	1	0	0
+Sevier-Tennessee	19	0	0
+Shelby-Tennessee	912	17	0
 Smith-Tennessee	3	0	0
 Stewart-Tennessee	2	0	0
-Sullivan-Tennessee	26	1	0
-Sumner-Tennessee	361	15	0
+Sullivan-Tennessee	27	1	0
+Sumner-Tennessee	376	18	0
 Tipton-Tennessee	38	0	0
 Trousdale-Tennessee	14	1	0
 Unicoi-Tennessee	1	0	0
-Union-Tennessee	1	0	0
+Union-Tennessee	2	0	0
 Van Buren-Tennessee	0	0	0
 Warren-Tennessee	2	0	0
-Washington-Tennessee	27	2	0
+Washington-Tennessee	30	0	0
 Wayne-Tennessee	2	0	0
 Weakley-Tennessee	5	0	0
 White-Tennessee	2	0	0
-Williamson-Tennessee	278	3	0
-Wilson-Tennessee	113	0	0
+Williamson-Tennessee	287	3	0
+Wilson-Tennessee	117	0	0
 Anderson-Texas	2	0	0
 Andrews-Texas	10	0	0
 Angelina-Texas	14	0	0
 Aransas-Texas	2	0	0
 Archer-Texas	0	0	0
 Armstrong-Texas	0	0	0
-Atascosa-Texas	4	0	0
-Austin-Texas	6	0	0
+Atascosa-Texas	5	0	0
+Austin-Texas	7	0	0
 Bailey-Texas	0	0	0
-Bandera-Texas	0	0	0
-Bastrop-Texas	15	0	0
+Bandera-Texas	1	0	0
+Bastrop-Texas	17	1	0
 Baylor-Texas	0	0	0
 Bee-Texas	0	0	0
-Bell-Texas	71	2	0
-Bexar-Texas	456	12	0
+Bell-Texas	74	2	0
+Bexar-Texas	503	18	0
 Blanco-Texas	4	0	0
 Borden-Texas	0	0	0
 Bosque-Texas	0	0	0
-Bowie-Texas	17	1	0
+Bowie-Texas	20	1	0
 Brazoria-Texas	173	1	0
-Brazos-Texas	97	7	0
+Brazos-Texas	108	8	0
 Brewster-Texas	0	0	0
 Briscoe-Texas	0	0	0
 Brooks-Texas	0	0	0
@@ -2550,92 +2550,92 @@ Burnet-Texas	5	0	0
 Caldwell-Texas	5	0	0
 Calhoun-Texas	12	0	0
 Callahan-Texas	1	0	0
-Cameron-Texas	101	1	0
+Cameron-Texas	108	1	0
 Camp-Texas	2	0	0
 Carson-Texas	0	0	0
 Cass-Texas	4	0	0
 Castro-Texas	11	1	0
-Chambers-Texas	17	0	0
+Chambers-Texas	19	0	0
 Cherokee-Texas	6	0	0
 Childress-Texas	0	0	0
 Clay-Texas	1	0	0
 Cochran-Texas	0	0	0
 Coke-Texas	0	0	0
 Coleman-Texas	0	0	0
-Collin-Texas	306	4	0
+Collin-Texas	343	5	0
 Collingsworth-Texas	0	0	0
-Colorado-Texas	3	0	0
-Comal-Texas	27	2	0
+Colorado-Texas	6	0	0
+Comal-Texas	29	3	0
 Comanche-Texas	3	0	0
 Concho-Texas	0	0	0
 Cooke-Texas	0	0	0
-Coryell-Texas	11	0	0
+Coryell-Texas	12	0	0
 Cottle-Texas	0	0	0
 Crane-Texas	2	0	0
 Crockett-Texas	0	0	0
 Crosby-Texas	1	0	0
 Culberson-Texas	0	0	0
 Dallam-Texas	1	0	0
-Dallas-Texas	1261	19	0
+Dallas-Texas	1324	20	0
 Dawson-Texas	7	0	0
 Deaf Smith-Texas	7	0	0
 Delta-Texas	0	0	0
 Denton-Texas	366	7	0
 De Witt-Texas	0	0	0
-Dickens-Texas	0	0	0
+Dickens-Texas	1	0	0
 Dimmit-Texas	0	0	0
-Donley-Texas	7	0	0
+Donley-Texas	13	0	0
 Duval-Texas	0	0	0
 Eastland-Texas	3	0	0
 Ector-Texas	30	1	0
 Edwards-Texas	0	0	0
-Ellis-Texas	35	2	0
-El Paso-Texas	132	0	0
+Ellis-Texas	41	2	0
+El Paso-Texas	153	0	0
 Erath-Texas	11	1	0
 Falls-Texas	1	0	0
-Fannin-Texas	2	0	0
+Fannin-Texas	4	0	0
 Fayette-Texas	9	0	0
 Fisher-Texas	0	0	0
 Floyd-Texas	1	0	0
 Foard-Texas	0	0	0
-Fort Bend-Texas	318	6	0
+Fort Bend-Texas	417	6	0
 Franklin-Texas	1	0	0
 Freestone-Texas	0	0	0
-Frio-Texas	0	0	0
+Frio-Texas	1	0	0
 Gaines-Texas	1	0	0
-Galveston-Texas	256	1	0
+Galveston-Texas	272	5	0
 Garza-Texas	0	0	0
 Gillespie-Texas	1	0	0
 Glasscock-Texas	0	0	0
 Goliad-Texas	3	0	0
 Gonzales-Texas	1	0	0
-Gray-Texas	9	0	0
-Grayson-Texas	14	0	0
-Gregg-Texas	23	0	0
-Grimes-Texas	4	0	0
-Guadalupe-Texas	39	0	0
+Gray-Texas	11	0	0
+Grayson-Texas	15	0	0
+Gregg-Texas	32	0	0
+Grimes-Texas	6	0	0
+Guadalupe-Texas	45	0	0
 Hale-Texas	7	0	0
 Hall-Texas	0	0	0
-Hamilton-Texas	1	0	0
+Hamilton-Texas	2	0	0
 Hansford-Texas	1	0	0
 Hardeman-Texas	0	0	0
-Hardin-Texas	28	1	0
-Harris-Texas	2146	23	0
+Hardin-Texas	41	1	0
+Harris-Texas	2341	31	0
 Harrison-Texas	11	1	0
 Hartley-Texas	0	0	0
 Haskell-Texas	0	0	0
-Hays-Texas	61	0	0
+Hays-Texas	75	0	0
 Hemphill-Texas	1	0	0
-Henderson-Texas	6	0	0
-Hidalgo-Texas	113	0	0
-Hill-Texas	5	0	0
+Henderson-Texas	4	0	0
+Hidalgo-Texas	128	1	0
+Hill-Texas	6	0	0
 Hockley-Texas	10	1	0
 Hood-Texas	10	1	0
 Hopkins-Texas	4	0	0
 Houston-Texas	0	0	0
 Howard-Texas	0	0	0
 Hudspeth-Texas	0	0	0
-Hunt-Texas	1	0	0
+Hunt-Texas	14	0	0
 Hutchinson-Texas	2	0	0
 Irion-Texas	0	0	0
 Jack-Texas	0	0	0
@@ -2645,10 +2645,10 @@ Jeff Davis-Texas	0	0	0
 Jefferson-Texas	78	2	0
 Jim Hogg-Texas	0	0	0
 Jim Wells-Texas	2	0	0
-Johnson-Texas	24	1	0
-Jones-Texas	0	0	0
+Johnson-Texas	25	1	0
+Jones-Texas	1	0	0
 Karnes-Texas	2	0	0
-Kaufman-Texas	14	0	0
+Kaufman-Texas	16	0	0
 Kendall-Texas	9	0	0
 Kenedy-Texas	0	0	0
 Kent-Texas	0	0	0
@@ -2662,55 +2662,55 @@ Lamar-Texas	6	0	0
 Lamb-Texas	1	0	0
 Lampasas-Texas	2	0	0
 La Salle-Texas	0	0	0
-Lavaca-Texas	2	0	0
+Lavaca-Texas	3	0	0
 Lee-Texas	2	0	0
 Leon-Texas	2	0	0
-Liberty-Texas	12	0	0
+Liberty-Texas	15	0	0
 Limestone-Texas	6	1	0
 Lipscomb-Texas	0	0	0
 Live Oak-Texas	3	0	0
 Llano-Texas	3	0	0
 Loving-Texas	0	0	0
-Lubbock-Texas	180	6	0
+Lubbock-Texas	191	6	0
 Lynn-Texas	4	0	0
-McCulloch-Texas	1	0	0
-McLennan-Texas	56	1	0
+McCulloch-Texas	0	0	0
+McLennan-Texas	62	1	0
 McMullen-Texas	0	0	0
 Madison-Texas	0	0	0
 Marion-Texas	0	0	0
 Martin-Texas	2	0	0
 Mason-Texas	1	0	0
 Matagorda-Texas	42	3	0
-Maverick-Texas	5	0	0
-Medina-Texas	6	0	0
+Maverick-Texas	7	0	0
+Medina-Texas	7	0	0
 Menard-Texas	0	0	0
-Midland-Texas	27	1	0
-Milam-Texas	3	0	0
+Midland-Texas	30	1	0
+Milam-Texas	7	0	0
 Mills-Texas	0	0	0
 Mitchell-Texas	1	0	0
 Montague-Texas	1	0	0
-Montgomery-Texas	197	4	0
-Moore-Texas	8	0	0
+Montgomery-Texas	210	4	0
+Moore-Texas	9	0	0
 Morris-Texas	1	0	0
 Motley-Texas	0	0	0
-Nacogdoches-Texas	21	2	0
+Nacogdoches-Texas	25	2	0
 Navarro-Texas	4	1	0
 Newton-Texas	1	0	0
 Nolan-Texas	0	0	0
 Nueces-Texas	65	0	0
 Ochiltree-Texas	0	0	0
 Oldham-Texas	3	1	0
-Orange-Texas	26	0	0
-Palo Pinto-Texas	2	0	0
+Orange-Texas	29	0	0
+Palo Pinto-Texas	3	0	0
 Panola-Texas	4	1	0
 Parker-Texas	6	0	0
 Parmer-Texas	0	0	0
 Pecos-Texas	1	0	0
 Polk-Texas	8	0	0
-Potter-Texas	41	1	0
+Potter-Texas	47	1	0
 Presidio-Texas	0	0	0
 Rains-Texas	0	0	0
-Randall-Texas	36	1	0
+Randall-Texas	40	1	0
 Reagan-Texas	0	0	0
 Real-Texas	0	0	0
 Red River-Texas	0	0	0
@@ -2718,20 +2718,20 @@ Reeves-Texas	1	0	0
 Refugio-Texas	0	0	0
 Roberts-Texas	0	0	0
 Robertson-Texas	2	0	0
-Rockwall-Texas	11	0	0
+Rockwall-Texas	14	0	0
 Runnels-Texas	0	0	0
-Rusk-Texas	13	0	0
+Rusk-Texas	14	0	0
 Sabine-Texas	0	0	0
 San Augustine-Texas	4	1	0
-San Jacinto-Texas	1	0	0
-San Patricio-Texas	2	0	0
+San Jacinto-Texas	3	0	0
+San Patricio-Texas	7	0	0
 San Saba-Texas	0	0	0
 Schleicher-Texas	0	0	0
 Scurry-Texas	0	0	0
 Shackelford-Texas	0	0	0
-Shelby-Texas	13	0	0
+Shelby-Texas	17	0	0
 Sherman-Texas	0	0	0
-Smith-Texas	75	2	0
+Smith-Texas	79	2	0
 Somervell-Texas	0	0	0
 Starr-Texas	7	0	0
 Stephens-Texas	0	0	0
@@ -2739,34 +2739,34 @@ Sterling-Texas	0	0	0
 Stonewall-Texas	0	0	0
 Sutton-Texas	0	0	0
 Swisher-Texas	2	0	0
-Tarrant-Texas	517	18	0
+Tarrant-Texas	588	19	0
 Taylor-Texas	38	1	0
 Terrell-Texas	0	0	0
 Terry-Texas	6	0	0
 Throckmorton-Texas	0	0	0
 Titus-Texas	2	0	0
-Tom Green-Texas	24	0	0
-Travis-Texas	502	4	0
+Tom Green-Texas	25	0	0
+Travis-Texas	554	7	0
 Trinity-Texas	2	0	0
 Tyler-Texas	2	0	0
-Upshur-Texas	5	0	0
+Upshur-Texas	6	0	0
 Upton-Texas	0	0	0
 Uvalde-Texas	5	0	0
-Val Verde-Texas	6	0	0
+Val Verde-Texas	7	0	0
 Van Zandt-Texas	7	1	0
-Victoria-Texas	50	0	0
+Victoria-Texas	59	0	0
 Walker-Texas	15	0	0
 Waller-Texas	11	0	0
 Ward-Texas	0	0	0
-Washington-Texas	21	1	0
-Webb-Texas	122	6	0
-Wharton-Texas	17	0	0
+Washington-Texas	24	1	0
+Webb-Texas	135	6	0
+Wharton-Texas	18	0	0
 Wheeler-Texas	0	0	0
 Wichita-Texas	48	0	0
 Wilbarger-Texas	0	0	0
-Willacy-Texas	5	1	0
-Williamson-Texas	81	3	0
-Wilson-Texas	7	0	0
+Willacy-Texas	7	1	0
+Williamson-Texas	87	4	0
+Wilson-Texas	8	0	0
 Winkler-Texas	0	0	0
 Wise-Texas	3	0	0
 Wood-Texas	4	0	0
@@ -2776,11 +2776,11 @@ Zapata-Texas	1	0	0
 Zavala-Texas	0	0	0
 Beaver-Utah	0	0	0
 Box Elder-Utah	13	0	0
-Cache-Utah	24	0	0
-Carbon-Utah	1	0	0
+Cache-Utah	28	0	0
+Carbon-Utah	2	0	0
 Daggett-Utah	0	0	0
-Davis-Utah	158	2	0
-Duchesne-Utah	1	0	0
+Davis-Utah	163	2	0
+Duchesne-Utah	2	0	0
 Emery-Utah	2	0	0
 Garfield-Utah	1	0	0
 Grand-Utah	1	0	0
@@ -2791,18 +2791,18 @@ Millard-Utah	0	0	0
 Morgan-Utah	0	0	0
 Piute-Utah	0	0	0
 Rich-Utah	0	0	0
-Salt Lake-Utah	807	7	0
-San Juan-Utah	12	0	0
+Salt Lake-Utah	858	7	0
+San Juan-Utah	13	0	0
 Sanpete-Utah	0	0	0
 Sevier-Utah	0	0	0
-Summit-Utah	265	0	0
-Tooele-Utah	22	0	0
-Uintah-Utah	2	0	0
-Utah-Utah	236	2	0
-Wasatch-Utah	80	0	0
+Summit-Utah	273	0	0
+Tooele-Utah	23	0	0
+Uintah-Utah	4	0	0
+Utah-Utah	267	2	0
+Wasatch-Utah	82	0	0
 Washington-Utah	31	1	0
 Wayne-Utah	0	0	0
-Weber-Utah	75	1	0
+Weber-Utah	77	1	0
 Addison-Vermont	47	0	0
 Bennington-Vermont	27	0	0
 Caledonia-Vermont	8	0	0
@@ -2818,67 +2818,67 @@ Washington-Vermont	24	0	0
 Windham-Vermont	38	0	0
 Windsor-Vermont	24	1	0
 Accomack-Virginia	11	0	0
-Albemarle-Virginia	38	0	0
+Albemarle-Virginia	41	0	0
 Alleghany-Virginia	2	0	0
-Amelia-Virginia	7	0	0
+Amelia-Virginia	8	0	0
 Amherst-Virginia	8	0	0
 Appomattox-Virginia	3	0	0
-Arlington-Virginia	237	2	0
-Augusta-Virginia	10	0	0
+Arlington-Virginia	254	2	0
+Augusta-Virginia	13	0	0
 Bath-Virginia	0	0	0
-Bedford-Virginia	8	0	0
+Bedford-Virginia	12	0	0
 Bland-Virginia	0	0	0
 Botetourt-Virginia	18	0	0
 Brunswick-Virginia	1	0	0
 Buchanan-Virginia	1	0	0
-Buckingham-Virginia	6	0	0
-Campbell-Virginia	3	0	0
+Buckingham-Virginia	9	0	0
+Campbell-Virginia	4	0	0
 Caroline-Virginia	4	0	0
 Carroll-Virginia	2	0	0
-Charles City-Virginia	4	0	0
+Charles City-Virginia	5	0	0
 Charlotte-Virginia	1	0	0
-Chesterfield-Virginia	128	0	0
-Clarke-Virginia	2	0	0
+Chesterfield-Virginia	145	0	0
+Clarke-Virginia	3	0	0
 Craig-Virginia	2	0	0
-Culpeper-Virginia	9	0	0
+Culpeper-Virginia	10	0	0
 Cumberland-Virginia	6	0	0
 Dickenson-Virginia	0	0	0
-Dinwiddie-Virginia	1	0	0
+Dinwiddie-Virginia	2	0	0
 Essex-Virginia	0	0	0
-Fairfax-Virginia	532	2	0
-Fauquier-Virginia	18	0	0
+Fairfax-Virginia	570	9	0
+Fauquier-Virginia	17	0	0
 Floyd-Virginia	0	0	0
-Fluvanna-Virginia	9	0	0
-Franklin-Virginia	11	0	0
-Frederick-Virginia	43	0	0
+Fluvanna-Virginia	12	0	0
+Franklin-Virginia	12	0	0
+Frederick-Virginia	46	0	0
 Giles-Virginia	2	0	0
-Gloucester-Virginia	15	0	0
-Goochland-Virginia	22	0	0
+Gloucester-Virginia	16	0	0
+Goochland-Virginia	24	0	0
 Grayson-Virginia	0	0	0
 Greene-Virginia	4	0	0
 Greensville-Virginia	5	0	0
 Halifax-Virginia	2	0	0
-Hanover-Virginia	19	0	0
-Henrico-Virginia	267	2	0
+Hanover-Virginia	22	0	0
+Henrico-Virginia	291	2	0
 Henry-Virginia	4	0	0
 Highland-Virginia	0	0	0
 Isle of Wight-Virginia	23	0	0
-James City-Virginia	119	2	0
+James City-Virginia	122	2	0
 King and Queen-Virginia	1	0	0
-King George-Virginia	10	0	0
+King George-Virginia	11	0	0
 King William-Virginia	2	0	0
 Lancaster-Virginia	1	0	0
-Lee-Virginia	2	0	0
-Loudoun-Virginia	209	1	0
-Louisa-Virginia	14	0	0
+Lee-Virginia	3	0	0
+Loudoun-Virginia	238	1	0
+Louisa-Virginia	16	0	0
 Lunenburg-Virginia	2	0	0
-Madison-Virginia	4	0	0
+Madison-Virginia	5	0	0
 Mathews-Virginia	2	0	0
-Mecklenburg-Virginia	12	0	0
+Mecklenburg-Virginia	16	0	0
 Middlesex-Virginia	0	0	0
 Montgomery-Virginia	16	0	0
-Nelson-Virginia	2	0	0
-New Kent-Virginia	12	0	0
+Nelson-Virginia	3	0	0
+New Kent-Virginia	11	0	0
 Northampton-Virginia	2	0	0
 Northumberland-Virginia	3	0	0
 Nottoway-Virginia	3	0	0
@@ -2888,29 +2888,29 @@ Patrick-Virginia	0	0	0
 Pittsylvania-Virginia	3	0	0
 Powhatan-Virginia	4	0	0
 Prince Edward-Virginia	3	0	0
-Prince George-Virginia	21	0	0
-Prince William-Virginia	236	1	0
+Prince George-Virginia	24	0	0
+Prince William-Virginia	263	1	0
 Pulaski-Virginia	2	0	0
 Rappahannock-Virginia	1	0	0
 Richmond-Virginia	2	0	0
-Roanoke-Virginia	8	0	0
+Roanoke-Virginia	9	0	0
 Rockbridge-Virginia	3	0	0
-Rockingham-Virginia	16	0	0
+Rockingham-Virginia	20	0	0
 Russell-Virginia	1	0	0
 Scott-Virginia	0	0	0
 Shenandoah-Virginia	13	0	0
-Smyth-Virginia	3	0	0
+Smyth-Virginia	5	0	0
 Southampton-Virginia	5	0	0
-Spotsylvania-Virginia	29	0	0
-Stafford-Virginia	49	0	0
+Spotsylvania-Virginia	31	0	0
+Stafford-Virginia	48	0	0
 Surry-Virginia	3	0	0
-Sussex-Virginia	5	0	0
+Sussex-Virginia	6	0	0
 Tazewell-Virginia	4	0	0
-Warren-Virginia	6	0	0
-Washington-Virginia	10	0	0
-Westmoreland-Virginia	3	0	0
-Wise-Virginia	3	0	0
-Wythe-Virginia	3	0	0
+Warren-Virginia	8	0	0
+Washington-Virginia	12	0	0
+Westmoreland-Virginia	5	0	0
+Wise-Virginia	4	0	0
+Wythe-Virginia	6	0	0
 York-Virginia	25	1	0
 Alexandria City-Virginia	0	0	0
 Bedford City-Virginia	0	0	0
@@ -2925,7 +2925,7 @@ Danville City-Virginia	0	0	0
 Emporia City-Virginia	0	0	0
 Fairfax City-Virginia	0	0	0
 Falls Church City-Virginia	0	0	0
-Franklin City-Virginia	4	0	0
+Franklin City-Virginia	5	0	0
 Fredericksburg City-Virginia	0	0	0
 Galax City-Virginia	0	0	0
 Hampton City-Virginia	0	0	0
@@ -2943,8 +2943,8 @@ Petersburg City-Virginia	0	0	0
 Poquoson City-Virginia	0	0	0
 Portsmouth City-Virginia	0	0	0
 Radford City-Virginia	0	0	0
-Richmond City-Virginia	110	0	0
-Roanoke City-Virginia	12	0	0
+Richmond City-Virginia	119	0	0
+Roanoke City-Virginia	14	0	0
 Salem City-Virginia	0	0	0
 South Boston City-Virginia	0	0	0
 Staunton City-Virginia	0	0	0
@@ -2953,51 +2953,51 @@ Virginia Beach City-Virginia	0	0	0
 Waynesboro City-Virginia	0	0	0
 Williamsburg City-Virginia	0	0	0
 Winchester City-Virginia	0	0	0
-Adams-Washington	27	0	0
+Adams-Washington	29	0	0
 Asotin-Washington	4	0	0
-Benton-Washington	176	19	0
+Benton-Washington	179	19	0
 Chelan-Washington	34	3	0
-Clallam-Washington	8	0	0
-Clark-Washington	185	13	0
+Clallam-Washington	9	0	0
+Clark-Washington	190	13	0
 Columbia-Washington	1	0	0
 Cowlitz-Washington	21	0	0
 Douglas-Washington	10	0	0
 Ferry-Washington	1	0	0
-Franklin-Washington	70	2	0
+Franklin-Washington	75	2	0
 Garfield-Washington	0	0	0
-Grant-Washington	88	2	0
-Grays Harbor-Washington	6	0	0
-Island-Washington	142	5	0
+Grant-Washington	94	2	0
+Grays Harbor-Washington	7	0	0
+Island-Washington	145	6	0
 Jefferson-Washington	27	0	0
-King-Washington	3486	230	0
+King-Washington	3688	244	0
 Kitsap-Washington	119	1	0
 Kittitas-Washington	13	0	0
 Klickitat-Washington	11	1	0
 Lewis-Washington	16	1	0
 Lincoln-Washington	1	0	0
-Mason-Washington	16	0	0
-Okanogan-Washington	9	0	0
+Mason-Washington	17	0	0
+Okanogan-Washington	10	0	0
 Pacific-Washington	0	0	0
 Pend Oreille-Washington	1	0	0
-Pierce-Washington	760	14	0
-San Juan-Washington	10	0	0
-Skagit-Washington	166	4	0
+Pierce-Washington	795	16	0
+San Juan-Washington	12	0	0
+Skagit-Washington	169	5	0
 Skamania-Washington	2	0	0
-Snohomish-Washington	1659	61	0
-Spokane-Washington	222	12	0
+Snohomish-Washington	1695	63	0
+Spokane-Washington	239	13	0
 Stevens-Washington	5	0	0
 Thurston-Washington	74	1	0
 Wahkiakum-Washington	2	0	0
-Walla Walla-Washington	13	0	0
+Walla Walla-Washington	16	0	0
 Whatcom-Washington	238	19	0
 Whitman-Washington	12	0	0
-Yakima-Washington	380	12	0
-Barbour-West Virginia	3	0	0
-Berkeley-West Virginia	57	0	0
-Boone-West Virginia	0	0	0
-Braxton-West Virginia	0	0	0
+Yakima-Washington	400	17	0
+Barbour-West Virginia	4	0	0
+Berkeley-West Virginia	66	0	0
+Boone-West Virginia	1	0	0
+Braxton-West Virginia	1	0	0
 Brooke-West Virginia	1	0	0
-Cabell-West Virginia	11	0	0
+Cabell-West Virginia	12	0	0
 Calhoun-West Virginia	0	0	0
 Clay-West Virginia	0	0	0
 Doddridge-West Virginia	0	0	0
@@ -3005,28 +3005,28 @@ Fayette-West Virginia	1	0	0
 Gilmer-West Virginia	0	0	0
 Grant-West Virginia	0	0	0
 Greenbrier-West Virginia	3	0	0
-Hampshire-West Virginia	0	0	0
+Hampshire-West Virginia	1	0	0
 Hancock-West Virginia	7	0	0
 Hardy-West Virginia	2	0	0
-Harrison-West Virginia	25	1	0
+Harrison-West Virginia	29	1	0
 Jackson-West Virginia	19	1	0
-Jefferson-West Virginia	31	0	0
-Kanawha-West Virginia	61	0	0
+Jefferson-West Virginia	38	0	0
+Kanawha-West Virginia	69	0	0
 Lewis-West Virginia	1	0	0
 Lincoln-West Virginia	0	0	0
-Logan-West Virginia	7	0	0
-McDowell-West Virginia	2	0	0
-Marion-West Virginia	25	1	0
+Logan-West Virginia	8	0	0
+McDowell-West Virginia	3	0	0
+Marion-West Virginia	30	1	0
 Marshall-West Virginia	5	0	0
 Mason-West Virginia	6	0	0
-Mercer-West Virginia	5	0	0
+Mercer-West Virginia	6	0	0
 Mineral-West Virginia	3	0	0
 Mingo-West Virginia	0	0	0
-Monongalia-West Virginia	60	1	0
+Monongalia-West Virginia	68	1	0
 Monroe-West Virginia	0	0	0
 Morgan-West Virginia	4	0	0
 Nicholas-West Virginia	2	0	0
-Ohio-West Virginia	19	0	0
+Ohio-West Virginia	18	0	0
 Pendleton-West Virginia	1	0	0
 Pleasants-West Virginia	1	0	0
 Pocahontas-West Virginia	0	0	0
@@ -3043,9 +3043,9 @@ Tyler-West Virginia	1	0	0
 Upshur-West Virginia	1	0	0
 Wayne-West Virginia	0	0	0
 Webster-West Virginia	0	0	0
-Wetzel-West Virginia	2	0	0
+Wetzel-West Virginia	3	0	0
 Wirt-West Virginia	1	0	0
-Wood-West Virginia	13	0	0
+Wood-West Virginia	14	0	0
 Wyoming-West Virginia	1	0	0
 Adams-Wisconsin	2	0	0
 Ashland-Wisconsin	1	0	0
@@ -3057,9 +3057,9 @@ Burnett-Wisconsin	0	0	0
 Calumet-Wisconsin	4	0	0
 Chippewa-Wisconsin	16	0	0
 Clark-Wisconsin	7	0	0
-Columbia-Wisconsin	23	0	0
+Columbia-Wisconsin	23	1	0
 Crawford-Wisconsin	2	0	0
-Dane-Wisconsin	289	11	0
+Dane-Wisconsin	303	11	0
 Dodge-Wisconsin	15	0	0
 Door-Wisconsin	7	0	0
 Douglas-Wisconsin	7	0	0
@@ -3076,7 +3076,7 @@ Iron-Wisconsin	1	1	0
 Jackson-Wisconsin	4	0	0
 Jefferson-Wisconsin	15	0	0
 Juneau-Wisconsin	5	0	0
-Kenosha-Wisconsin	112	1	0
+Kenosha-Wisconsin	127	1	0
 Kewaunee-Wisconsin	1	0	0
 La Crosse-Wisconsin	22	0	0
 Lafayette-Wisconsin	1	0	0
@@ -3087,12 +3087,12 @@ Marathon-Wisconsin	12	0	0
 Marinette-Wisconsin	3	0	0
 Marquette-Wisconsin	2	0	0
 Menominee-Wisconsin	1	0	0
-Milwaukee-Wisconsin	1323	49	0
+Milwaukee-Wisconsin	1416	56	0
 Monroe-Wisconsin	5	0	0
 Oconto-Wisconsin	1	0	0
 Oneida-Wisconsin	5	0	0
 Outagamie-Wisconsin	25	1	0
-Ozaukee-Wisconsin	66	7	0
+Ozaukee-Wisconsin	70	7	0
 Pepin-Wisconsin	0	0	0
 Pierce-Wisconsin	7	0	0
 Polk-Wisconsin	0	0	0
@@ -3106,14 +3106,14 @@ St Croix-Wisconsin	0	0	0
 Sauk-Wisconsin	20	2	0
 Sawyer-Wisconsin	0	0	0
 Shawano-Wisconsin	3	0	0
-Sheboygan-Wisconsin	30	2	0
+Sheboygan-Wisconsin	32	2	0
 Taylor-Wisconsin	0	0	0
 Trempealeau-Wisconsin	1	0	0
 Vernon-Wisconsin	0	0	0
 Vilas-Wisconsin	4	0	0
 Walworth-Wisconsin	21	0	0
 Washburn-Wisconsin	0	0	0
-Washington-Wisconsin	59	3	0
+Washington-Wisconsin	63	3	0
 Waukesha-Wisconsin	166	5	0
 Waupaca-Wisconsin	2	1	0
 Waushara-Wisconsin	1	0	0
@@ -3129,18 +3129,18 @@ Fremont-Wyoming	38	0	0
 Goshen-Wyoming	3	0	0
 Hot Springs-Wyoming	0	0	0
 Johnson-Wyoming	8	0	0
-Laramie-Wyoming	47	0	0
+Laramie-Wyoming	48	0	0
 Lincoln-Wyoming	4	0	0
 Natrona-Wyoming	26	0	0
 Niobrara-Wyoming	0	0	0
 Park-Wyoming	1	0	0
-Platte-Wyoming	1	0	0
+Platte-Wyoming	0	0	0
 Sheridan-Wyoming	12	0	0
 Sublette-Wyoming	1	0	0
-Sweetwater-Wyoming	5	0	0
-Teton-Wyoming	41	0	0
+Sweetwater-Wyoming	6	0	0
+Teton-Wyoming	44	0	0
 Uinta-Wyoming	3	0	0
-Washakie-Wyoming	4	0	0
+Washakie-Wyoming	5	0	0
 Weston-Wyoming	0	0	0
 Unknown-American Samoa	0	0	0
 Manua-American Samoa	0	0	0
