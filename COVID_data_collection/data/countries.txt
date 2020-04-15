@@ -6,14 +6,7 @@ Angola
 Antigua and Barbuda
 Argentina
 Armenia
-Australia - Australian Capital Territory
-Australia - New South Wales
-Australia - Northern Territory
-Australia - Queensland
-Australia - South Australia
-Australia - Tasmania
-Australia - Victoria
-Australia - Western Australia
+Australia
 Austria
 Azerbaijan
 Bahamas
@@ -33,53 +26,11 @@ Burkina Faso
 Cabo Verde
 Cambodia
 Cameroon
-Canada - Alberta
-Canada - British Columbia
-Canada - Grand Princess
-Canada - Manitoba
-Canada - New Brunswick
-Canada - Newfoundland and Labrador
-Canada - Nova Scotia
-Canada - Ontario
-Canada - Prince Edward Island
-Canada - Quebec
-Canada - Saskatchewan
+Canada
 Central African Republic
 Chad
 Chile
-China - Anhui
-China - Beijing
-China - Chongqing
-China - Fujian
-China - Gansu
-China - Guangdong
-China - Guangxi
-China - Guizhou
-China - Hainan
-China - Hebei
-China - Heilongjiang
-China - Henan
-China - Hong Kong
-China - Hubei
-China - Hunan
-China - Inner Mongolia
-China - Jiangsu
-China - Jiangxi
-China - Jilin
-China - Liaoning
-China - Macau
-China - Ningxia
-China - Qinghai
-China - Shaanxi
-China - Shandong
-China - Shanghai
-China - Shanxi
-China - Sichuan
-China - Tianjin
-China - Tibet
-China - Xinjiang
-China - Yunnan
-China - Zhejiang
+China
 Colombia
 Congo (Brazzaville)
 Congo (Kinshasa)
@@ -164,9 +115,6 @@ Montenegro
 Morocco
 Namibia
 Nepal
-Netherlands - Aruba
-Netherlands - Curacao
-Netherlands - Sint Maarten
 Netherlands
 New Zealand
 Nicaragua
