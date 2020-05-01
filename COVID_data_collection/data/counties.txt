@@ -610,7 +610,7 @@
 17037,De Kalb,Illinois
 17039,De Witt,Illinois
 17041,Douglas,Illinois
-17043,Du Page,Illinois
+17043,DuPage,Illinois
 17045,Edgar,Illinois
 17047,Edwards,Illinois
 17049,Effingham,Illinois
