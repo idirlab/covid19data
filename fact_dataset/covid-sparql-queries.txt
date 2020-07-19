@@ -1,0 +1,51 @@
+List of prefixes:
+prefix ns1: <http://example.org/COVID-19/> 
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+prefix xml: <http://www.w3.org/XML/1998/namespace> 
+prefix xsd: <http://www.w3.org/2001/XMLSchema#> 
+
+
+Sample Query #1
+
+What are the symptoms of COVID-19?
+
+select ?answer where {
+   ?var1 ns1:Question "What are the symptoms of COVID-19?" ;
+   ns1:Answer_Detail ?answer
+}
+
+Sample Query #2
+
+Find all questions and their detailed answers regarding COVID-19 medication.
+
+select ?question ?answer  where {
+   ?var1 a <http://www.example.org/COVID-19/taxonomy/Medication> ;
+   ns1:Question ?question ;
+   ns1:Answer_Detail ?answer
+}
+
+Sample Query #3
+
+Find all misleading claims that appeared in Twitter.
+
+select ?claim where {
+?var1 ns1:Claim ?claim ;
+   ns1:RetrievalDate ?var3 ;
+   ns1:Claimer ?var2 ;
+   ns1:Verdict "Misleading" .
+   filter contains(?var2, "Twitter")
+}
+
+Sample query #4
+
+How many claims in each category are fact-checked by Poynter?
+
+select (replace(str(?var3), "http://www.example.org/COVID-19/taxonomy/", "") as ?category) (count(?var3) as ?count) where {
+   ?var1 a ?var3 ;
+   ns1:Source ?var2 .
+   filter contains(?var2, "www.poynter.org")
+} GROUP BY ?var3
+
+
+

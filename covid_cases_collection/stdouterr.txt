@@ -1,0 +1,10 @@
+Running add_to_time_series.py on 06/25/2020 07:01:01
+
+Running collect_data.py on 06/25/2020 07:01:01
+
+NY Times state data collected successfully !
+NY Times county data collected successfully !
+JHU counties data collected successfully !
+JHU state data collected successfully !
+JHU global data collected successfully !
+COVID Tracking Project's data collected successfully !
