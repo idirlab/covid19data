@@ -47,7 +47,7 @@
 | World Vision | 4                 |
 | In Total     | **32**            |
 
-1. **Question-Answer Entries**
+3. **Question-Answer Entries**
 
 | Data Source            | Number of Entries |
 |------------------------|-------------------|
@@ -70,7 +70,7 @@
 | World Vision           | 16                |
 | In Total               | **1529**          |
 
-1. **Question-Only Entries**
+4. **Question-Only Entries**
 
 | Data Source       | Number of Entries |
 |-------------------|-------------------|
