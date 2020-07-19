@@ -1,28 +1,28 @@
 # IDIR COVID-19 Dataset
 
-## COVID19 Case Data Collection
+## **COVID19 Cases Data Collection**
 
-### Setup
+### Setup your own case collection environment
 
 1. Modify the configuration of `./covid_cases_collection/run_daily.sh` as your own.
 2. Create a `crontab` job to schedule daily data collection task.
 
-### Data Source
+### Cases Data Sources
 
 - [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 - [New York Times](https://github.com/nytimes/covid-19-data)
 - [COVID Tracking Project](https://covidtracking.com/api/)
 
-## COVID19 Facts Dataset Overview
+## **COVID19 Facts Dataset Overview**
 
 ### COVID19 Facts Statistics
 
-- Data sources(websites) count: 29
-- Fact-check data sources count: 7
-- FAQ data sources count: 22
-- Fact-check entries count: 7983
-- FAQ entries count: 3194
-- Taxonomy-labelled entries count: 500
+- Data sources(websites) count: **29**
+- Fact-check data sources count: **7**
+- FAQ data sources count: **22**
+- Fact-check entries count: **7983**
+- FAQ entries count: **3194**
+- Taxonomy-labelled entries count: **500**
 
 ### Statistic Details
 
@@ -36,7 +36,7 @@
 | PolitiFact             | 454               |
 | News Guard             | 13                |
 | Johns Hopkins Medicine | 4                 |
-| In Total               | 7951              |
+| In Total               | **7951**          |
 
 2. **Fact-Only Entries**
 
@@ -45,9 +45,9 @@
 | CDC          | 5                 |
 | WHO          | 23                |
 | World Vision | 4                 |
-| In Total     | 32                |
+| In Total     | **32**            |
 
-3. **Question-Answer Entries**
+1. **Question-Answer Entries**
 
 | Data Source            | Number of Entries |
 |------------------------|-------------------|
@@ -68,9 +68,9 @@
 | WHO                    | 284               |
 | WJLA\*                 | 16                |
 | World Vision           | 16                |
-| In Total               | 1529              |
+| In Total               | **1529**          |
 
-4. **Question-Only Entries**
+1. **Question-Only Entries**
 
 | Data Source       | Number of Entries |
 |-------------------|-------------------|
@@ -79,7 +79,7 @@
 | Quora\*           | 1048              |
 | Yahoo\*           | 128               |
 | Yahoo Answers\*   | 51                |
-| In Total          | 1665              |
+| In Total          | **1665**          |
 
 ### COVID19 Facts Entries
 
