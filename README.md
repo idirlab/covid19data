@@ -107,12 +107,12 @@ All data files are Excel files. Each excel file stores data from one data source
 
 3. **question_only entries**: These entries are only questions related to COVID-19. They are all from the dataset of the paper [“What Are People Asking About COVID-19? A Question Classification Dataset](https://openreview.net/forum?id=qd51R0JNLl). The columns that belong to these entries are:
    - “Question”: The question related to COVID-19.
-   - “Fact/Summary”: The answer to the question provided by the paper’s dataset. 
+   - “Fact/Summary”: The answer to the question provided by the paper’s dataset.
    - “Source”: The data source of the questions, it is pure text provided by the paper’s dataset.
    - “Taxonomy”: The taxonomy/class of the question. The taxonomy is labelled like C2.1.1, the meaning of the taxonomy is shown in file taxonomy.vsdx.
    - “Retrieval Date”: The date when the entry was retrieved.
 
-4. **fact_only entries**: These entries are only facts from different data sources. They are true for sure. The columns that belong to these entries are: 
+4. **fact_only entries**: These entries are only facts from different data sources. They are true for sure. The columns that belong to these entries are:
    - “Fact/Summary”: The fact related to COVID-19. It is true.
    - “Source”: The data source of the questions, it is pure text provided by the paper’s dataset.
    - “Taxonomy”: The taxonomy/class of the fact. The taxonomy is labelled like C2.1.1, the meaning of the taxonomy is shown in file taxonomy.vsdx.
@@ -155,7 +155,11 @@ All data files are Excel files. Each excel file stores data from one data source
 ## Contributor
 
 - [Xiao Shi](https://github.com/shixiao9941)
-- [Jaradat Israa](TODO:)
+- [Jaradat Israa](https://github.com/israaTODO:)
 - [Josue Caraballo](https://github.com/v3nd3774)
 - [Kevin Meng](https://github.com/kmeng01)
 - [Zhengyuan Zhu](https://github.com/824zzy)
+
+## License
+
+The work in this repository is released under the [GNU General Public License v3.0](./LICENSE).
