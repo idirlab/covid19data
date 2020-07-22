@@ -155,7 +155,7 @@ All data files are Excel files. Each excel file stores data from one data source
 ## Contributor
 
 - [Xiao Shi](https://github.com/shixiao9941)
-- [Jaradat Israa](https://github.com/israaTODO:)
+- [Jaradat Israa](https://github.com/ijaradat/)
 - [Josue Caraballo](https://github.com/v3nd3774)
 - [Kevin Meng](https://github.com/kmeng01)
 - [Zhengyuan Zhu](https://github.com/824zzy)
