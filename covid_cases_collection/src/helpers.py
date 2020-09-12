@@ -74,7 +74,11 @@ def sum_provinces(provinces_file):
                 recoveries += int(r)
             print(str(confirmed)+'-'+str(deaths)+'-'+str(recoveries))
 
-def write_temp(deaths,recoveries,confirmed,out_file):
+def write_temp(deaths,recoveries,confirmed,out_file,file_date = ''):
+    if not file_date =='':  # if the date of the original source file is provided, use it in the time stamp (applies for JHU_g and JHU_c)
+        timedate_stamp  = file_date + "," + time
+    else:
+        timedate_stamp = date + "," + time
     with codecs.open(out_file, 'w', encoding='utf8') as out:
         out.write(timedate_stamp + '\n')
         out.write("LOCATION\tCASES\tDEATHS\tRECOVERED\n")
@@ -177,7 +181,7 @@ counties = get_locations("../data/input/counties.txt")
 countries = get_locations("../data/input/countries.txt")
 date = datetime.today().strftime('%Y-%m-%d')
 time = datetime.now().strftime("%H:%M:%S")
-timedate_stamp = date + " " + time
+
 
 # sum_provinces("../data/canada_time_series_tsv.csv")
 # DO NOT REMOVE THESE COMMENT LINES !!!

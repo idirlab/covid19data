@@ -8,4 +8,4 @@
 cd /idir-covid19/covid19data/COVID_data_collection/
 source covidvenv/bin/activate
 cd /idir-covid19/covid19data/data_collection/src
-sudo python collect_data.py > /idir-covid19/covid19data/data_collection/stdouterr.txt 2>&1
+sudo python collect_data.py -j -n -c > /idir-covid19/covid19data/data_collection/stdouterr.txt 2>&1

@@ -158,6 +158,7 @@ All data files are Excel files. Each excel file stores data from one data source
 - [Jaradat Israa](https://github.com/ijaradat/)
 - [Josue Caraballo](https://github.com/v3nd3774)
 - [Kevin Meng](https://github.com/kmeng01)
+- [Zeyu Zhang](zeyu.zhang@mavs.uta.edu)
 - [Zhengyuan Zhu](https://github.com/824zzy)
 
 ## License

@@ -1,10 +1,17 @@
-Running add_to_time_series.py on 06/25/2020 07:01:01
+Running add_to_time_series.py on 09/11/2020 15:59:01
 
-Running collect_data.py on 06/25/2020 07:01:01
+Running collect_data.py on 09/11/2020 15:59:01
 
-NY Times state data collected successfully !
-NY Times county data collected successfully !
+OrderedDict([('jhu', True), ('nyt', True), ('ctp', True), ('date', '09-11-2020'), ('yesterday', '09-10-2020')])
+Data file not found from the source : https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/09-11-2020.csv
+Collecting the most recent file instead...
 JHU counties data collected successfully !
+Data file not found from the source : https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/09-11-2020.csv
+Collecting the most recent file instead...
 JHU state data collected successfully !
+Data file not found from the source : https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/09-11-2020.csv
+Collecting the most recent file instead...
 JHU global data collected successfully !
 COVID Tracking Project's data collected successfully !
+NY Times state data collected successfully !
+NY Times county data collected successfully !

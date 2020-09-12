@@ -1,20 +1,17 @@
 from helpers import get_locations,add_locations_header
 from datetime import datetime
 import codecs
+from dateutil.parser import parse
 print("Running add_to_time_series.py on "+datetime.now().strftime("%m/%d/%Y %H:%M:%S")+'\n')
 
 countries_file = "../data/input/countries.txt"
 counties_file = "../data/input/counties.txt"
 states_file = "../data/input/states.txt"
 
-def add_todays_row(time_series_f,temp_csv_f,level,date=None,add_h=False):
-    # add_header(level, time_series_f)     #uncomment when creating new time series files
-    if add_h:
-        add_header(level, time_series_f)
-    if not date:
-        date = datetime.today().strftime('%Y-%m-%d')    
-    time = datetime.now().strftime("%H:%M:%S")
-
+def add_todays_row(time_series_f,temp_csv_f,level,date,time):
+    #add_header(level, time_series_f)     #uncomment when creating new time series files
+    date_ = datetime.strptime(date, '%m-%d-%Y')
+    date = date_.strftime('%Y-%m-%d')
     if level =="s":
         locations = get_locations(states_file)
     elif level == "g":
@@ -28,9 +25,12 @@ def add_todays_row(time_series_f,temp_csv_f,level,date=None,add_h=False):
         recoveries = {loc: "NA" for loc in locations}
 
         with codecs.open(temp_csv_f,'r',encoding='utf8') as f:  #collecting info from initial files
-            source_timestamp = f.readline()
-            source_timestamp = source_timestamp.strip()
-            out.write('\n' + date + '\t' + time+'\t'+source_timestamp)
+            l = f.readline()
+            l=l.strip()
+            source_timestamp = l.split(',')
+            source_date  = source_timestamp[0]
+            source_time  = source_timestamp[1]
+            out.write('\n' + source_date+'\t'+source_time +'\t'+date + ' ' + time)
             f.readline() # discard the header
             lines=f.readlines()
 
