@@ -17,5 +17,6 @@ for i in range(len(dfs)):
     dfs[i][c] = pd.to_datetime(dfs[i][c])
   mask = (dfs[i].date < '2020-02-01') & (dfs[i].source_timestamp > '2021-01-01')
   dfs[i].loc[mask, 'date'] = dfs[i].loc[mask, 'date'].map(add_year)
+  dfs[i].loc[:, 'date'] = dfs[i].loc[:, 'date'].apply(lambda x: x.strftime('%Y-%m-%d'))
   dfs[i].to_csv(csvs[i], sep="\t", quoting=csv.QUOTE_NONE, index=False)
 print('done!')
