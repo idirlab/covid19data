@@ -47,8 +47,8 @@ def collect_nyt(url,output_file,level):
 
 
 def collect_jhu_c(url,out_f):
-    file_date = url[-14:-6]
-    date_ = datetime.strptime(file_date, '%m-%d-%y')
+    file_date = url[-14:-4]
+    date_ = datetime.strptime(file_date, '%m-%d-%Y')
     file_date = date_.strftime('%Y-%m-%d')
 
     data_source_file = retrieve_data_source(url, "../data/raw/jhu_c.csv")
@@ -81,8 +81,8 @@ def collect_jhu_c(url,out_f):
         return False
 
 def collect_jhu_s(url,out_f):
-    file_date = url[-14:-6]
-    date_ = datetime.strptime(file_date, '%m-%d-%y')
+    file_date = url[-14:-4]
+    date_ = datetime.strptime(file_date, '%m-%d-%Y')
     file_date = date_.strftime('%Y-%m-%d')
 
     data_source_file = retrieve_data_source(url, "../data/raw/jhu_s.csv")
@@ -111,10 +111,10 @@ def collect_jhu_s(url,out_f):
         return False
 
 def collect_jhu_g(url,out_f):
-    file_date = url[-14:-6]
-    date_ = datetime.strptime(file_date, '%m-%d-%y')
+    file_date = url[-14:-4]
+    date_ = datetime.strptime(file_date, '%m-%d-%Y')
     file_date = date_.strftime('%Y-%m-%d')
-
+    
     data_source_file = retrieve_data_source(url, "../data/raw/jhu_g.csv")
     deaths, confirmed, recovered = init_locations("g")
     if not data_source_file == "":
@@ -275,4 +275,3 @@ if __name__ == '__main__':
     opts = optparser.parse_args()[0]
 
     main(opts)
-
